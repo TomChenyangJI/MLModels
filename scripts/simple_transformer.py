@@ -261,3 +261,7 @@ if __name__ == "__main__":
     )
     out = model(x, trg[:, :-1])
     print(out.shape)
+
+
+# this script is programmed along a tutorial on youtube: 
+#   https://www.youtube.com/watch?v=U0s0f995w14
