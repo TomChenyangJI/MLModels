@@ -1,0 +1,63 @@
+<#$%
+https://www.kickresume.com/en/help-center/systems-engineer-resume-sample/
+#$%>
+
+Systems Engineer Resume Sample (Full Text Version)
+
+Patrick Mahomes
+
+Address: 99999, Rancho Cordova, United States
+Date of birth: 1999-19-09
+Email address: hello@kickresume.com
+Phone number: 999-999-999
+
+Work experience
+
+01/2017 - present, Validation Technician, Intel (Contract), Folsom, United States
+
+Written Batch, Powershell, & Python scripts to automate/test processes/reduce workloadPerformed Validation + Quality Assurance testing drivers on future Intel chipsetsCompiled bug reports/debug information on system tests for engineering teamsCreated and upkeep system pools for remote automated testingCreated automated tests and batch updates for system pools Read board schematics and made resistor+chip changes to fix fab flawsWorked in Agile Scrum environment w/JIRA and Rally + Intel HSDDiagnosed root causes for system failures on both hardware and software side
+
+02/2015 - 01/2017, System Administrator/Specialist, Keller & D’Agostini Reality, Somerset, United States
+
+Responsible for day to day operations and administration of the IT infrastructure.Provided use cases + user stories for website revamp (homesandvines.com)Provided system/network support for issues in multiple officesCreated best known methods and self help documents for level 1 triageConfigured Networks, Routers, Switches, etc.
+
+Education
+
+06/2012 - 12/2015, A.S. Computer Science, Folsom Lake College, Folsom, United States
+
+Skills
+
+Programming
+Python
+HTML, CSS, Javascript
+C/C++/C#
+
+Team Coordination
+Jira
+Rally
+Agile Scrum
+
+Achievements
+
+Built an image flashing tool with gui using Python 2.7Configured a Neuroevolutionary Neural Net in PythonCreated a benchstock inventory system in the military during deploymentCustomized wife's blog layout using HTML, CSS, and Javascript (thecomicalcolon.com)Validated Intel Coffeelake Audio Drivers + Codecs & Power Management microcode/pcode changes
+
+Extras
+
+Vehicle ROM modification
+Video Game Graphics Modding
+Drone Flight Model Tuning
+Git Version control
+Python Data Scraping Analysis
+
+Other Skills
+
+Create/Capture desktop images for reproductionRDP into systems to collect logs or execute test scriptsWork with engineering schematics to track down hardware issuesConfigured/used Logic Analyzers and Oscilloscopes for signal readoutsLinux kernel modification to accept unsupported hardwareUsed ticket tracking systems for IT and bug sighting purposes
+
+Strengths
+
+Honesty
+Trustworthy
+Flexible
+Fair
+Gathering information
+Leadership

@@ -1,0 +1,93 @@
+<#$%
+https://www.kickresume.com/en/help-center/it-solutions-architect-at-eman-resume-sample/
+#$%>
+
+IT Solutions Architect at eMan Resume Sample (Full Text Version)
+
+Michal Vlček
+
+Address: Náměstí, 757 51, Valašské Meziříčí, Czechia
+Nationality: Czech
+Date of birth: 14.6.1987
+Email address: hello@kickresume.com
+Phone number: 555-5555
+Profile
+Solution Architect and full-stack developer with leadership experience. Helping customers find their way to the best solution and deliver amazing experience and software.Working for the largest European provider of payment solutions for road mobility, I'm responsible for web & digital platform architecture — preparing cloud migrations, initiating adoption of DevOps principles, as well as modernizing the stack to embrace API, containers and microservices.In my career, I've delivered several projects related to sales, integration, collections and business user experience. To the challenges of budget and incomplete requirements, I bring a focus on the user, while delivering great value in small packages and down-to-earth approach for quick wins.
+
+Work experience
+
+12/2017 - present, Web & Digital Platform Architect, W.A.G. payment solutions, a.s., Prague, Czech Republic
+
+As a Solutions Architect on the Digital Delivery team, I am responsible for leading the transition of an existing business towards newly enabled digital opportunities:Architecture a greenfield web platform for digital projects based on a Node.js serverless backend and React SPA frontend.Oversee the creation of a business case and the successful delivery of all advantages that come with a digital platform.Integrate new digital projects into already existing backends.Work with multiple vendor and internal delivery teams to collaborate on individual deliveries with a single goal in mind.As a part of the IT Architecture team, I contributed to the transformation of current on-premise services to cloud, design of the infrastructure and networking, selection of platform-as-a-service options, and integration with existing software-as-a-service solutions.Projects I delivered or contributed to include:Redesign of the pricing presentation for the fuel acceptance network for drivers.Client F/X — support for multi-currency invoices for end users.Enterprise Single Sign-On — unification of user identities across the company's portals and applications.
+
+04/2017 - 11/2017, Solution Architect Team Lead, Provident Financial s.r.o., Prague, Czech Republic
+
+Working as the Czech market team leader on the Solution Architecture & Development team, I was responsible for a team of 3 solution architects and 4 developers (ranging from internal employees to contractors) in the following areas:Managing the Czech Provident application architecture, integration principles and the common architecture repository.Delivering solution concepts, estimations and integration architecture for group-wide and local projects and programs (see below).Leading an in-house development team using the Kanban methodology, providing coaching to new team members and setting the development standards.The projects delivered or worked upon include:Strategic Digital Platform — introducing a new product concept for home credit, my team and I was responsible for the integration architecture, financial reporting, call-centre systems integration and bringing the legacy and digital systems to the same level of features.Agent Technology & Mobility — bringing a market solution to new markets, providing a common integration platform for mobile applications, developing a hybrid Android/iOS application for the sales team.
+
+04/2016 - 03/2017, Solution Architect, Provident Financial s.r.o., Prague, Czech Republic
+
+Working as a Solution Architect on Provident's Czech and Slovak IT Development team, I was responsible for delivering enterprise and application architecture as well as providing analytical and development delivery for selected projects. My responsibilities included:Creating and updating a centralized architectural repository for the Czech and Slovak markets, including enterprise and application architecture in Sparx EA.Creating a solution design for desired projects and programs, including detailed integration design, estimations and participating in vendor selection.Analyzing business requirements to provide a functional specification.Leading development teams on given projects and developing desired functionalities.Working with vendors on specifying and accepting deliveries.The delivered projects included:Agent Cockpit application — a hybrid iOS/Android application for the sales force; the application was developed and deployed to all sales staff.New Product proposition — a complex project to introduce a new product to Provident "Modrá půjčka / Zelená půjčka, used by Provident till today. The delivery included a new architecture for handling bank transfer loans (spanning bank systems and CRM integration), tax and accounting integration, and new sales tools, such as as SPA applications.Organization Design project — a reorganization project introducing new sales tools and changes to the CRM design.Lead Management — introduction of an ESB to the application architecture and new backend integration systems.The projects involved collaboration with several of Provident's vendors on architecture and development.
+
+07/2014 - 03/2016, IT Systems Development Specialist, Provident Financial s.r.o., Prague, Czech Republic
+
+Developing server-side solutions (.NET & WCF, MS SQL, SSIS) for internal projects, developing a client-side solution (ASP.NET, jQuery & REST, ReactJS) for employees and agents; producing functional specifications and detail designs (ArchiMate, Enterprise Architect) of new software; processing change management to legacy applications; providing L3 support for new and legacy products.Succesfully deployed solutions include:IT backing of the project "Prepaid Cards in Provident Slovakia", including an automatic bookkeeping and reconciliation system, integration platform between the card vendor, call center and accounting, client statement distribution.Implementation of a new "collection of claims" system, including integration platform between two vendors based on NoSQL and REST, migration and production L3 support.Synchronization of identity management systems between HR and IT.Android app (Cordova, Ionic Framework & AngularJS) for Provident's agent supporting existing business processes.Datamart layer (MS SQL, SSIS) of DWH from Provident's primary IS.My responsibilities also included working with vendors — local (Czech & Slovak) as well as offshore (Indian) companies — throughout the entire process of designing an outsourced solution, working with teams on detail design and final acceptance of the delivered solution into testing.
+
+Education
+
+09/2011 - 06/2014, Computational Mathematics at the Faculty of CS, VŠB — Technical University of Ostrava, Ostrava, Czech Republic
+
+09/2012 - 06/2015, Business Economics at Economics faculty, VŠB — Technical University of Ostrava, Ostrava, Czech Republic
+
+Skills
+
+Languages
+Czech/Slovak
+English
+French
+
+Programming Languages
+JavaScript (ES2017)
+C#/.NET
+MS T-SQL
+Python
+Swift/iOS
+Java/Android
+
+Certifications
+
+08/2017, ArchiMate 3.0 L1 Foundation, OpenGroup, http://bit.ly/vojtech-archimate3-l1
+
+12/2016, Machine Learning, Stanford University on Coursera, http://bit.ly/vojtech-coursera
+
+04/2016, BizTalk Server 2010 - Development of Business Processes and Integration Solutions, GOPAS a.s., GOC307-20160100049
+
+Public Activities
+
+04/2019 - 04/2018, Mentor, Smart Mobility Hackaton Prague, Prague, Czech Republic
+
+Preparation of Eurowag PRIZE Challenge (later awarded to RedCute).Mentoring participants of Hackaton over the duration.
+
+Cognitive traits
+
+Attention Duration - 100%
+Planning Speed - 93%
+Planning Accuracy - 90%
+Distraction - Freedom from Distraction (Speed) - 82%
+Planning Efficiency - 72%
+
+Emotional traits
+
+Social traits
+
+Risk Preference for Medium Risks - 80%
+Risk Preference for High Risks - 80%
+Trust - 69%
+Risk Preference for Low Risks - 63%
+Learning from Reward - 56%
+
+Social Media
+
+Vojtěch ZIcha -  https://www.linkedin.com/in/vojtechzicha/
+Vojtěch Zicha -  https://www.facebook.com/vojtech.zicha
+@vojtechzicha -  https://twitter.com/vojtechzicha
+@vojtechzicha -  https://github.com/vojtechzicha

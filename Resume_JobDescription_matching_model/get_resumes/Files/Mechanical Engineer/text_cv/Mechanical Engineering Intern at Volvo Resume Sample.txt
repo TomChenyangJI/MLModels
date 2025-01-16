@@ -1,0 +1,111 @@
+<#$%
+https://www.kickresume.com/en/help-center/volvo-mechanical-engineer-internship-resume-sample/
+#$%>
+
+Mechanical Engineering Intern at Volvo Resume Sample (Full Text Version)
+
+Ivan Llopis Beltran
+
+Address: Lund, Sweden
+Date of birth: 1993-06-26
+Email address: hello@kickresume.com
+Phone number: phone number
+Web: www.kickresume.com/cv/beltran/
+Profile
+My background is in Mechanical Engineering with a specialization in Control Systems. My passion is centered in Machine Learning and Service robotics. I want to discover more about the amazing world of self-driving cars. My goal is to grow as a person and as a professional, every day.
+
+Education
+
+2017 - 2019, Master of Science in Engineering Degree, Civilingenjör in Control and Automation, Lund University, Sweden
+
+Subjects included: Real-time systems, Applied mechatronics, Applied Machine Learning, Applied Artificial Intelligence (Starting January 2019), Multivariable control, Nonlinear control and servo systems, Project in automatic control, System Identification, Predictive control. This education gave me an understanding of different strategies of control systems, and how they are related to mechatronics systems and AI.
+
+2016 - 2018, Master’s Degree in Industrial Engineering, Polytechnic University of Valencia (UPV), Spain
+
+Master's degree in Engineering focused on Management as well as Control and Automation.
+
+2011 - 2015, Bachelor’s Degree in Ingeniería en Tecnologías Industriales (with Honours), Polytechnic University of Valencia (UPV), Spain
+
+A very well respected 4-year program in Spain. Apart from its primary focus, it also provides knowledge in a wide variety of other fields, such as mechanics, electronics, manufacturing, control theory, programming, electrical engineering, and thermal machines, among others.
+
+Work experience
+
+12/2016 - 07/2017, Software Programmer of a Robotic System, SABIEN-ITACA, Valencia, Spain
+
+I have programmed a social robot whose purpose was to work with patients in medical centers and with elderly people. The robot was able to collect data from the patients and the environment thanks to environment recognition. A small AI enabled user interaction and communication, as well as connection with other CPUs by means of two Internet of Things platforms.
+
+02/2016 - 07/2016, Designer, Microfluidic Lab-on-A-Chip, Dep. of Automatic Control, Polytechnic University of Valencia (UPV), Spain
+
+Design of a microfluidic chip for characterization of a synthetic biological circuit by means of quorum sensing of AHL-based molecular expression cells in E. Coli.
+
+07/2015 - 10/2015, Temporary Job as Machine Operator, Globe Engineering Ltd., Elsenham, United Kingdom
+
+CNC Milling Operator. Basic Mazak machines operation. Quality control and problem solving tasks. Packaging. Manual milling, lathe. Welding in MIG/MAG/TIG. G-code programming.
+
+Awards
+
+04/2016, SpaceApps Challenge, NASA
+
+Our team got challenged by NASA to design a solution for the Jet Set Mars Challenge: a mobility solution for first operations on Mars. We designed an exoskeleton with a jetpack and HUD for mobility, and proposed a method for obtaining fuel on-site. We reached Top 25 Global Prize and Top 5 in Best Use of Hardware among 1,287 projects.
+
+03/2016, Design for Autodesk Challenge, Autodesk
+
+Design of a hybrid robotic arm powered by a pneumatic cylinder for this challenge promoted by Autodesk, using Fusion 360. Featured on the company's website.
+
+10/2014, International Genetically Engineered Machines (iGEM) Competition, MIT
+
+Worldwide competition in synthetic biology. Our team created a brand new biologically modified plant for crop protection: The Sexy Plant. With the Valencia_UPV team, we were awarded the Best Parts Collection special prize. 226 teams from the world's top universities took part in this competition..
+
+Skills
+
+Software
+Autodesk Inventor/Fusion 360/Solidworks
+Matlab/Simulink
+ROS
+Keras/Tensorflow
+Scikit-learn/WEKA
+Linux
+Arduino
+Kanzi Studio
+Microsoft Office
+
+Programming Languages
+C/C#
+Python
+Java
+ATMEL AVR
+C++
+HTML/CSS
+
+Languages
+English
+Spanish
+Catalan
+
+Languages
+Swedish
+Chinese
+
+Certifications
+
+03/2016, Machine Learning — WMGQ8LAVB93P, Stanford University (MOOC)
+
+11-week course on Machine Learning imparted by Professor Andrew Ng from Stanford University via Coursera.org. This course covers the theoretical part of some of the most important ML algorithms: linear regression, logistic regression, neural networks, K-means clustering, support vector machines, recommender systems, classification. Analysis of the training data, validation, overfitting, sensitivity analysis of the training results.
+
+05/2015, HSK 1, Confucius Institute
+
+Hanyu Shuiping Kaoshi (HSK) is a Chinese proficiency test. HSK1 test corresponds to a Basic Level (A1).
+
+10/2016, Transversal Competences — 16/48306, Polytechnic University of Valencia
+
+Course focused on developing assertiveness, teamwork, time management and communication.
+
+Volunteering
+
+04/2016 - 05/2017, Member of the board, Makers UPV, Valencia, Spain
+
+This is a multidisciplinary student association that focuses on the maker movement, giving students hands-on experience in projects and allowing them apply the theoretical knowledge obtained at the university to the real world. The association also holds regular workshops for younger students.I learned to manage and work on multidisciplinary teams of reasonable numbers, sometimes more than twenty people on the same team, communicate efficiently, and push ideas further.
+
+Additional Info
+
+EU driving license

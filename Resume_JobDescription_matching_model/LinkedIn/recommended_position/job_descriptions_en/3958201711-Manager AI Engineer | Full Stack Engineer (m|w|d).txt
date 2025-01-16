@@ -1,0 +1,34 @@
+
+https://www.linkedin.com/jobs/search/?currentJobId=3958201711
+
+Manager AI Engineer / Full Stack Engineer (m/w/d)
+
+
+
+You make the difference. Whether in Business Audit & Assurance, Risk Advisory, Tax & Legal, Financial Advisory or Consulting: At Deloitte, we support our global clients in continuously developing themselves. Discover a diverse work environment that is constantly moving and always revolves around one center: you and your know-how. What impact will you make?
+
+Do you want to support customers in the area of ​​Risk Advisory – Digital Risk with secure digitalization and the successful use of agile methods? Our team continually provides customers with new and established services to reduce digital risks, covering a diverse range of services. Secure our mutual success and make the difference with us: as Manager AI Engineer / Full Stack (m/f/d).
+
+Locations: Düsseldorf, Berlin, Frankfurt (Main), Hamburg and Munich.
+
+Your impact:
+
+As a Manager AI Engineer / Full Stack (m/f/d), you will fully support customers in their digital transformation and thus help shape a new, future-oriented Deloitte business area from the start.
+
+Innovation: Together with your colleagues, you will develop innovative solutions in the area of ​​GenAI (mainly: LLMs) and GPU-accelerated neural networks for NLP and computer vision in productive environments. Conception: As part of your position, you will implement and develop solutions with our GenAI Enterprise platform various web applications.Teamwork: With your multidisciplinary team, you design architectures and advise customers on future-proof solutions.Expertise: You support the LLM model fine-tuning to optimize them for process systems. Technology: In your projects you work with, among other things, NVIDIA NeMo, OpenAI, AlephAlpha, open source models on various cloud platforms.
+
+Your skillset:
+
+Degree in computer science, statistics, engineering, natural sciences or comparableAt least five years of professional experience in project management and/or as a team lead as well as experience in developing web applications, GPU acceleration and graphics enginesGood knowledge of programming languages ​​such as Python, (scikit-learn, TensorFlow, Keras, Pytorch), Kubernetes, React and C++Enjoy complex tasks, customer and team orientation and creativity Willingness to travel and very good written and spoken German and English 
+
+Your chance:
+
+Best-in-class further training at Deloitte University as well as within the framework of individual qualification offers and training Comprehensive development opportunities through structured career planning, inclusive leadership, secondment programs, project-based job rotation as well as promotion of social commitment and corporate volunteering Balancing work and family thanks to mobile working & part-time, sabbaticals and Family service, e.g. B. to support caring relatives, parental leave advice and much more. Focus on health and fitness through regular health days, cooperation with fitness providers and support for sports and team events. Attractive employer benefits including bike and car leasing, company smartphone for private use as well as flexible working models such as B. Trusted working hours and EU remote working Diverse creative scope and active promotion of an inclusive corporate culture - among other things. through our Diversity & Inclusion employee networks
+
+Are you ready? Make the difference with us!
+
+Our recruiting team looks forward to receiving your application documents (CV as well as high school diplomas, university certificates and job references) via our online form. We do not require a cover letter or application photo.
+
+Equal opportunities for everyone: We welcome applications from people who are as diverse as we are - regardless of age, disability, ethnic origin and nationality, gender, religion, sexual orientation or social background. Still questions? You can find all information about our application process in our application FAQs.
+
+Job ID: 45924

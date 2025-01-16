@@ -1,0 +1,61 @@
+
+https://www.linkedin.com/jobs/search/?currentJobId=4103790653
+
+Intern Application - Digitalization (f/m/x)
+
+
+
+A GOOD INTERNSHIP IS PRACTICALLY NEVER THEORETICAL.
+
+SHARE YOUR PASSION.
+
+Success is teamwork. Only when experts share their specialist knowledge and enthusiasm can a workflow be created in which ideas flow. We call this a culture of innovation. That's why we not only give students the opportunity to listen, but above all to have a say and think ahead.
+
+We, the BMW Group, offer you an exciting and varied internship in the area of ​​tool development for the gasoline engine drive application. Support our team in application development for driving behavior, emissions and on-board diagnostics in the automated analysis of measurement data and the creation of IT solutions that meet requirements along the entire “measure, analyze, secure” chain. As part of your overarching task, get to know the complete drive application for gasoline engines.
+
+What awaits you?
+
+You will accompany us in the new and further development of automated functional tests based on vehicle measurements. You will also support the creation and optimization of tools for automated measurement data evaluation and vehicle data analysis. You will develop solutions for the graphical preparation of the analysis data. You will also work on the implementation of database queries and API interfaces to other tools. You support the rollout of new applications and the optimization of existing tools, data platforms and productive applications.
+
+
+What are you bringing with you?
+
+Bachelor's or master's degree in computer science, mechanical engineering, industrial engineering, electrical engineering or a comparable course of study. Advanced programming knowledge in Matlab, Python and, if necessary, JavaScript. Advanced knowledge of software engineering and agile software development, including Jira, Kanban. You have a passion for new technologies and software.Fluent in German and good English skills.
+
+
+Do you enjoy learning new things and actively supporting our department? Apply now!
+
+What do we offer you?
+
+Comprehensive mentoring & onboarding.Personal & professional development.Flexible working hours.Mobile work.Attractive remuneration.Apartments for students (subject to availability & only at the Munich location).And much more see bmw.jobs/waswirbieten.
+
+
+At the BMW Group, we see diversity and inclusion in all its dimensions as a strength for our teams. Equal opportunities are particularly important to us, and the equal treatment of applicants and employees is a fundamental principle of our corporate policy. Our recruiting decisions are therefore based on your personality, experience and skills.
+
+More about diversity at the BMW Group at bmwgroup.jobs/diversity.
+
+Start date: from February 17, 2025
+
+Duration: 6 months
+
+Working hours: full time
+
+Contact:
+
+BMW Group HR team
+
++49 89 382-17001
+
+Intern Application - Digitalization (f/m/x) 
+
+Corporate division: BMW AG
+
+Location: Munich
+
+Working area: drive
+
+Job ID: 143034
+
+Release date: 12/18/2024
+
+Internship/thesis

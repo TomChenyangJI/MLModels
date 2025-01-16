@@ -1,0 +1,62 @@
+
+https://www.linkedin.com/jobs/search/?currentJobId=4105029149
+
+(Senior) Electrical Engineer (F/M/D)
+
+
+
+OUR VISION
+
+When people use our technology to "bridge the gap" between the physical and digital worlds, they don't just capture reality - they create a new one. In this new reality, they are smarter, more productive, more streamlined, and more creative - because they have the digital foundation to build the world they want to live in.
+
+That's what NavVis offers in all our products and services: the tools to not just map the world as it is, but to pave the way to a better future. To forge something new. Physical or digital, there is only one reality. And it's the reality NavVis empowers people to build better.
+
+THE OPPORTUNITY
+
+Do you have what it takes to work on the most advanced Indoor Mobile Mapping Device while developing, testing, and debugging its overall system and custom electronics?
+
+As an Electrical Engineer, you will work as an integral part of our creative Design and Engineering Team together with Designers, Mechanical and Electrical Engineers developing the next generation of our product. In this role, you will work hands-on on a wide set of tasks ranging from PCB design, over system architecture design and engineering project management, all the way to occasional firmware and software development. The chance to work on a wide range of tasks will keep daily work engaging, challenging and rewarding. This opportunity is right for you if you are someone with strong problem-solving skills who enjoys exploring the latest tech gadgets! You will get to collaborate and coordinate with a multidisciplinary team (supply chain, mechanics) along with external suppliers and development partners.
+
+Are you excited to work in a team of open-minded people developing the next generation of cutting-edge mobile mapping technology made in Munich?
+
+How You Will Make An Impact
+
+You will be part of a product development team working on the full system architecture, custom PCBs, cable harnesses and thermal design, bringing groundbreaking ideas to lifeYou will design PCBs from proof of concept all the way to productionYou will dive into the latest tech trends by researching, testing, and deciding on the next generation of cameras, LiDAR sensors, IMUs, compute units and other electronic components You will contribute to the development of testing tools for embedded systems (hardware and software)You will manage projects with suppliers and manufacturers for key components 
+
+What Will Help You Succeed In The Role
+
+A Master's degree in Electrical Engineering, Mechatronics or similar with a focus on electronics5+ years of professional experience in electrical engineering and strong hands-on skillsHardware experience with Embedded Systems and sensorsExperience with medium complexity PCB designs (Altium or similar)Advanced skills in using DMMs, Oscilloscopes and other lab equipment Hands-on experience with soldering SMD components and manufacturing cablesIntermediate programming skills (C/C++, Python or similar)Fluency in English, to communicate effectively with all relevant internal and external stakeholders 
+
+What would be even better?
+
+Experience with Linux systems and comfort using terminal toolsAdvanced software skills in C/C++ and PythonExperience with high-speed interfaces like USB 3.x, Gigabit Ethernet or similarKnowledge of product testing and compliance testing for Electrical safety and EMCExperience with quality processes and the application of DfT and DfM techniques
+
+How We Will Know We Are a Perfect Match
+
+Your recruiting partner for this role is Rina (she/her). You can expect to go through a screening call, and up to 2 rounds of interviews, followed by an onsite visit to our HQ, where we would love to discover your passion and interests, introduce you to who we are and what drives us, and finally understand how we can potentially add value to each other's growth.
+
+How We Will Keep You Smiling
+
+It's important to take a break from work! We offer 30 days of paid time off per year We offer flexible working hours and a hybrid work setup, enabling you to plan your work around your life, and not your life around work!We offer full visa and relocation support for international candidatesAn attractive bike leasing model through JobRad, in line with our commitment towards sustainable mobilityA competitive compensation package that values the skills and experience you bringUp to 4000 EUR employee referral bonus Financial support for local language classes to help you in your journey of integrating into the culture!
+
+About Us
+
+NavVis is a technologically-focused, global leader in reality capture and digital factory solutions. Prominent manufacturers and laser scanning professionals from across the world trust our ground-breaking technology, which is designed to capture and share the built environment as photorealistic digital twins.
+
+More than 300 people from over 70 countries and offices spread around the globe make us a truly international and diverse place to work. With the innovation of startups and the stability of large enterprises at our core, we combine the best of both worlds.
+
+You will be part of an open culture that encourages the sharing of ideas and thrives on mutual trust, respect, and transparency. We love giving and receiving honest feedback that will empower us to continuously improve and grow in the right direction.
+
+Do you share our passion for our disruptive technology and want to be a part of our dynamic growth journey? You will get to own projects, implement innovative solutions, and be recognized for your successes!
+
+How you will grow with us
+
+Flat hierarchy with an open feedback culture, including 360° developmental feedback aimed at holistic professional development Access to a learning & developmental platform with trainings tailored to your needs on a broad range of topics With a keen desire to invest in your personal growth, we offer clear career development paths and internal mobility opportunities 
+
+We derive our strength from our diversity.
+
+NavVis' unwavering commitment to fostering an inclusive and diverse workplace has laid the foundation for our incredible growth. We thrive on the collective strength of our people who come from diverse backgrounds. We respect and value every experience associated with race, gender identity, sexual orientation, nationality, religion and disability. We do not discriminate on the basis of any of these, or other identities, and strongly encourage everyone to apply.
+
+Together with you, we build NavVis!
+
+If you need assistance at any stage of the recruiting process due to a disability, please reach out to your recruiting partner(s) for this position.

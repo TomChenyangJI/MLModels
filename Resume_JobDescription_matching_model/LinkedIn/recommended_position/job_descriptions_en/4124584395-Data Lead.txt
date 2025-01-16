@@ -1,0 +1,19 @@
+
+https://www.linkedin.com/jobs/search/?currentJobId=4124584395
+
+Data Lead
+
+
+
+Role: Data LeadDomain: Developer Tooling CDE (B2B)Location: Fully Remote for those living in Germany - Occasional Munich Meet-upsComp: Circa €100,000 - €125,000 + Equity
+Are you a Data Generalist (Warehousing, Ingestion, Analytics, Visualisation, Transformation), who views data as a means to drive business outcomes as opposed to solving technical challenges, and you enjoy transforming complex problems into elegant solutions?
+Then read on....
+You would join a series A CDE who have created a cloud based solution to help technical folk create software more efficiently. Having just launched a new product, your work closely with engineering, sales and customer experience to shape ensure the full data-stack, infrastructure, and insights are fit for purpose, to drive business impact, GTM Strategy and Operational Efficiency.
+The business culture thrives on ownership, so you have the opportunity to shape the data strategy + architecture, advance data maturity and build a team around you in the mid-long term future.
+
+The role:Own Data Ingestion, Warehousing, Analytics & Visualisation with scalability, reliability + cost efficiency in mindCreate self service analytics capabilitiesData Eng Best Practises - Monitoring, Testing, Disaster Recovery, Documentation + make them scalable + reusableWork with GTM to track customer behaviour and lead enrichment pipelines to ensure insights are in the right places
+Stack they work with: BigQuery, DBT, Segment, Prefect, Cencus, Mixpanel, Hex, Metabase
+Yourself:Some leadership experienceExperience being the primary owner of a data function, in a fast-growing startup or scale-up environmentOwned Product Data in a SAAS or Similar EnvironmentBuilt or significantly evolved data platforms that directly supported business growthTrack record of successfully wearing multiple hats across the data stack - from data engineering to analytics.Experience with modern data stack tools like dbt, Prefect, Census / other orchestration and reverse ETL tools, modern warehouses (ideally BigQuery)Background working with product analytics and data from multiple other first/third party data sources, experience building up a customer data platformEvidence of stakeholder collaboration and business impact - driving business outcomes, team enablement, or improved decision-making processes
+Benefits:30 days paid vacation + public holidaysFlexible working hours - work in your productivity hoursAnnual company retreatsSports, Health and Well-being StipendEducational Budget (€1800 per year)Health Insuranceextended paid parental leave for all parents
+
+If you have been data hire no.1/2 in a scale-up, and can demonstrate you have significantly evolved a data function of a SaaS business, please email me directly on a.otter@strativgroup.com - there have been a lot of applications for the role

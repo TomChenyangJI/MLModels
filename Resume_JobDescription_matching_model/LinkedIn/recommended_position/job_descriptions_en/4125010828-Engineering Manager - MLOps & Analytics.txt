@@ -1,0 +1,50 @@
+
+https://www.linkedin.com/jobs/search/?currentJobId=4125010828
+
+Engineering Manager - MLOps & Analytics
+
+
+
+The role of an Engineering Manager at Canonical
+
+As an Engineering Manager at Canonical, you must be technically strong, but your main responsibility is to run an effective team and develop the colleagues you manage. You will develop and review code as a leader, while at the same time staying aware of that the best way to improve the product is to ensure that the whole team is focused, productive and unblocked.
+
+You are expected to help them grow as engineers, do meaningful work, do it outstandingly well, find professional and personal satisfaction, and work well with colleagues and the community. You will also be expected to be a positive influence on culture, facilitate technical delivery, and regularly reflect with your team on strategy and execution.
+
+You will collaborate closely with other Engineering Managers, product managers, and architects, producing an engineering roadmap with ambitious and achievable goals.
+
+We expect Engineering Managers to be fluent in the programming language, architecture, and components that their team uses, in this case popular open-source machine learning tools like Kubeflow, MLFlow, and Feast.
+
+Code reviews and architectural leadership are part of the job. The commitment to healthy engineering practices, documentation, quality and performance optimisation is as important, as is the requirement for fair and clear management, and the obligation to ensure a high-performing team.
+
+Location: This is a Globally remote role.
+
+What your day will look like
+
+Manage a distributed team of engineers and its MLOps/Analytics portfolioOrganize and lead the team's processes in order to help it achieve its objectivesConduct one-on-one meetings with team membersIdentify and measure team health indicatorsInteract with a vibrant communityReview code produced by other engineersAttend conferences to represent Canonical and its MLOps solutionsMentor and grow your direct reports, helping them achieve their professional goalsWork from home with global travel for 2 to 4 weeks per year for internal and external events 
+
+What we are looking for in you
+
+A proven track record of professional experience of software deliveryProfessional python development experience, preferably with a track record in open sourceA proven understanding of the machine learning space, its challenges and opportunities to improveExperience designing and implementing MLOps solutionsAn exceptional academic track record from both high school and preferably universityWillingness to travel up to 4 times a year for internal events
+
+Additional skills that you might also bring
+
+The following skills may be helpful to you in the role, but we don't expect everyone to bring all of them.
+
+Hands-on experience with machine learning libraries, or tools.Proven track record of building highly automated machine learning solutions for the cloud.Experience with building machine learning modelsExperience with container technologies (Docker, LXD, Kubernetes, etc.)Experience with public clouds (AWS, Azure, Google Cloud)Experience in the Linux and open-source software worldWorking knowledge of cloud computingPassionate about software quality and testingExperience working on a distributed team on an open source project -- even if that is community open source contributions.Demonstrated track record of Open Source contributions
+
+What we offer you
+
+We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.
+
+Distributed work environment with twice-yearly team sprints in person - we've been working remotely since 2004!Personal learning and development budget of USD 2,000 per yearAnnual compensation reviewRecognition rewardsAnnual holiday leaveMaternity and paternity leaveEmployee Assistance ProgrammeOpportunity to travel to new locations to meet colleagues from your team and othersPriority Pass for travel and travel upgrades for long haul company events
+
+About Canonical
+
+Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.
+
+Canonical has been a remote-first company since its inception in 2004. Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.
+
+Canonical is an equal opportunity employer
+
+We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration.

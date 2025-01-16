@@ -1,0 +1,65 @@
+<#$%
+https://www.kickresume.com/en/help-center/takeplace-java-script-web-developer-resume-sample/
+#$%>
+
+Takeplace Java Script Web Developer Resume Example (Full Text Version)
+
+Tomáš Horňák
+
+Address: Brno, Czech Republic
+Nationality: Slovak
+Date of birth: 1990-14-04
+Email address: hello@kickresume.com
+Phone number: 999999999
+Profile
+Fullstack developer | IT and technology enthusiast | Want to turn everything into responsive web app
+
+Work experience
+
+12/2017 - present, Javascript developer, Takeplace, s.r.o., Brno, Czech Republic
+
+Development of complex front-end workforce administration system with ReactJS framework.- Active participation in the development process through the entire software life-cycle under Agile methodology- Analysis of UX and design requirements and transforming it into functional components- Started new web project from scratch, chosing technologies and code structure, its' development, configuration and deployment to production- Development with modern technologies such as ReactJS, redux, redux-saga, Sass, flow, webscoket, REST, git, Babel, webpack, HTML5, ES6, Bootstrap, Materialize, docker, nginx and constantly learning new...
+
+06/2016 - 11/2017, Application Support Specialist Senior, EmbedIT, Brno, Czech Republic
+
+I was helping building new team supporting brand new project, applications and infrastructure introduced to new market. Analyzing applications logic and errors, preparing documentation and introducing variety of different checks. Whenever I had spare time I was developing different tools to automate our work.- Implementation of new application versions using Weblogic, Jenkins, OSB, RHEL- Development of wide variety of automation and reporting tools in python, HTML, nodeJS, ExpressJS, bash, PL/SQL...- Creating and running smoke-tests and performance tests, analyzing and interpreting results to customer and dev/infra teams- Preparing and deploying PL/SQL changes and hot-fixes- DWH application and servers support- Training colleagues on 1st level
+
+07/2015 - 05/2016, Application Support Specialist 24x7, EmbedIT, Brno, Czech Republic
+
+- Preparing and executing of SQL scripts on customer request- DWH monitoring, loading and fixing basic issues- Monitoring and supporting wide range of applications and systems in 10 different countries- Ticket and Incident handling, communication with customer's teams and managers- Taking over different tasks from 2nd level support
+
+11/2013 - 06/2015, z/OS Application & Operation Control, IBM, Brno, Czech Republic
+
+- Adjusting and submitting z/OS jobs, editing JCL code, implementing changes, solving DB2 and FTP problems
+
+02/2012 - 09/2013, z/OS Mainframe system operator, IBM, Brno, Czech Republic
+
+- 24/7 console events and batch monitoring of complex z/OS systems.
+
+Skills
+
+Languages
+English
+ReactJS
+nodeJS + expressJS
+Java, python
+HTML5, CSS3, ES6
+SQL + Pl/SQL
+
+Education
+
+2008 - 2012, Applied Informatics, Masarykova Univerzita, Brno, Czech Republic
+
+2000 - 2008, Mathematics and Physics, Kukucinova Grammar School, Slovakia, Poprad
+
+Hobbies
+
+Traveling, Exploring
+Skateboarding, Snowboarding, Kitesurfing
+Cooking, Eating
+
+Certifications
+
+08/2017, UNIX/Linux - WWW server Apache, GOPAS
+
+10/2017, ITIL® Foundation, TAYLLOR & COX

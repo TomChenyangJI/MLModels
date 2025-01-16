@@ -1,0 +1,50 @@
+<#$%
+https://www.kickresume.com/en/help-center/software-developer-at-binary-touch-technologies-resume-sample/
+#$%>
+
+Software Developer at Binary Touch Technologies Resume Sample (Full Text Version)
+
+Adam Mellen
+
+Date of birth: 12/05/1999
+Email address: hello@kickresume.com
+Phone number: 999-999-999
+Web: www.kickresume.com
+Profile
+Highly motivated and dynamic professional seeking a challenging position in the technology industry where I can leverage my knowledge of emerging technologies and expertise in SDLC to contribute to the development and implementation of innovative solutions.
+
+Work Experience
+
+10/2022 - 05/2023, Software Developer, Binary Touch Technologies LLP, Kolhapur, India
+
+• Achieved 20% growth for Organization using Development, Communication and Problem Solving skills.• Improved website performance and speed through optimization techniques by 25% .• Demonstrated expertise in Next.js, a widely adopted framework for building server-side rendered applications.• Created Technical Require Document (TRD) before implementing new features to keep recorded of new changesand code refactoring , which reduced the feature development time by 20%.• Leveraged React-hook-form and Material UI to design custom form elements that enhanced validation and usability by 50%.
+
+Education
+
+08/2018 - 07/2022, Bachelors of Technology, Electronics and Telecommunication, Dr.Babasaheb Ambedkar Technological University, Raigad, India
+
+CGPA - 8.49
+
+06/2016 - 05/2018, Class XII, Computer Science, St.Paul Junior College, Nagpur, India
+
+Percentage - 76 %
+
+Skills
+
+Software Life CycleIdeation and design thinking, MVP, estimates, plan, develop, test, deploy, maintenance, project management and innovation using technologies or startups. Programming languagesJavaScript ECMA6+, NodeJS, Python , Java  .Web TechnologiesReact ,Next JS , Redux, Sagas, Jest, Mocha, Gulp, Restful, WebSocket's, HTML5, CSS3, SPA and git.Software Process/QualityAgile Practices, XP, Scrum, (BDD) Behavior Driven Development and (TDD) Test Driven Development .Data ManagementMongoDB, Postgress, SQL ServerDevOps / CloudAWS, DockerTools and Technologies: Microsoft Excel, Microsoft PowerPoint.
+
+Personal Projects
+
+My DUPR, https://mydupr.com/
+A web app built for the sport named pickle ball popular in USA and Canada. The purpose of this app is to maintain the records of matches played by players , to organize events and leagues.
+
+Cryptoverse, https://cryptoverse-pa.netlify.app/
+Build a project that has all the information about crypto currencies trends and market dept.
+
+Certificates
+
+06/2015, Aws Developer Essentials, LinkedIn
+
+09/2022, Full Stack Web Development, Newton School
+
+Microsoft Introduction to Python programming, Microsoft

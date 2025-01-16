@@ -1,0 +1,79 @@
+<#$%
+https://www.kickresume.com/en/help-center/product-and-test-engineer-resume-sample-resume-sample/
+#$%>
+
+Product and Test Engineer Resume Sample (Full Text Version)
+
+Peter Stevenson
+
+Address: Street 23, Doha, Qatar
+Date of birth: 15th March 1992
+Email address: hello@kickresume.com
+Phone number: 999-9999
+
+Professional Experiences
+
+03/2021 - Today, Product and Test Engineer (Automotive), Infineon Technologies AG, Munich, Germany
+
+Responsible for Characterization and validation of MOSFET and IGBT and their drive circuitResponsible for analyzing test results from the backend and front end (wafer level, lot level, and chip level) from Automatic Test EquipmentDesign test and validation for ICsPerformed and maintained electrical test methodologies to ensure products meet data sheet specificationsData analysis for yield enhancement, defect detection for different stages of chip and wafer and analyze the effect of deviations on product characteristics Created a cross-domain mapping tool to map results from the test domain to the simulation domainTook responsibilities for different statistical analyses in projects to detect faults and keep track of product flow and deviationsPerform design, wafer processing, and simulation design of experiments (DOEs) to determine the optimum process and device performance characteristics
+
+07/2018 - 09/2019, Executive Engineer, Siemens, Gurugram, India
+
+Characterization of semiconductor devices and defect analysis to find out the root causes of failureDesign and implementation of different converter topologiesDesign and implementation of IGBT based Voltage source converter circuit in HVDCDeveloped a web interface that connected the database with an internal simulation tool for automatic periodic and scheduled reporting of simulation resultsDesign and developed switch-mode power supplies and their integration into existing power supply systems
+
+06/2016 - 07/2017, Intern, Siemens, Delhi, India
+
+Process InstrumentationAC/DC drivesIndustrial automation
+
+09/2020 - 10/2021, Driver design engineer (Volunteer), TUM Hyperloop, Munich, Germany
+
+Responsible for driver design for MOSFET based converterCalculation and product selection for dc-link capacitor for MOSFET based full-bridge converterDesigned pre-charging and discharging circuits for DC link capacitor
+
+Educations
+
+10/2019 - present, Master, Master of Science in Power Engineering, Technical university of Munich, Munich, Germany
+
+Major in circuit design for automotive MOSFET
+
+03/2014 - 06/2018, Bachelor, Electrical Engineering, Jamia Millia Islamia, Delhi, India
+
+Specialization in Power electronics and converter design
+
+Skills
+
+Languages
+English
+Deutsch
+
+Tools and Software
+MATLAB Simulink
+Python
+Altium
+Labview
+PCB design
+C++
+MS Office
+
+Projects
+
+07/2019, Over/Under Voltage Tripping Circuit for Distributed System Load with GSM alert using Microcontroller, Jamia Millia Islamia, https://www.ijitee.org/download/volume-8-issue-9/
+Published research paper in International Journal of Innovative Technology and Exploring Engineering (IJITEE)Using mobile phone to control and monitor electrical circuits by just sending text messages and getting alert as message when there is overload
+
+10/2018, Design and simulation of DC voltage multiplier using 555 timer, Jamia Millia Islamia, https://www.ijariit.com/manuscript/design-and-simulation-of-dc-voltage-multiplier-using-555-timer/
+The research project focussed on the development of 4 stages of the cascaded multiplier, each stage adding 12 volts, stepping up 12V DC input to 48V DC outputPublished article in International Journal of Advanced Research, Ideas and Innovations in Technology
+
+Hobbies
+
+Exploring distant lands
+Novel
+Football
+Music
+
+Strengths
+
+Adaptable
+Responsible
+Self-motivated
+Strong work ethic
+Creative thinking
+Honesty

@@ -1,0 +1,50 @@
+
+https://www.linkedin.com/jobs/search/?currentJobId=4125052665
+
+Lead Control & Protection System Engineer
+
+
+
+Job Description Summary
+
+Become part of a winning team and help to deliver the Green Energy transition.
+
+Job Description
+
+As a Lead Control & Protection System Engineer, you will report to the Control System Application Manager and will be part of a highly motivated and dynamic team of engineers working on the design of Control and Protection functions for LCC and VSC HVDC schemes.
+
+You will be mentor others on the existing designs of specified project and functionalities in MATLAB/Simulink and transfer them to the PSCAD simulation environment across the full delivery process life cycle, including but not limited to plant model design and maintenance, verification model in MATLAB, creating test harness for conversion, writing model guides, and evaluating models in PSCAD.
+
+Essential Responsibilities
+
+ Support the business’ Tendering, Operations, Contractual and After Sales Accountable for preparing the responses to technical queries from clients and solving customer issues. Dynamic Performance Studies (DPS) and other design studies using both offline and online simulation tools Technical accountability as a technical leader in engineering design reviews, identifying potential project risks and technical weaknesses and proposing safe, reliable, and compliant solutions Ensure that project plans contain the necessary activities and studies required to meet the requirements of the customer and the proposed technical solution. Proposing and leading continual improvement activities
+
+Qualifications / Essential Requirements
+
+ Engineering degree or equivalent including power systems and power electronics subjects or proven equivalent knowledge and experience in HVDC business Strong written and verbal communication skills, experienced in creating and presenting technical reports and responding to clients’ technical questions Competent on functional characteristics of power systems and understand the interactions between AC and HVDC systems Knowledge of HVDC Control, Protection and Sequencing strategy Experience in PSCAD and MATLAB-SIMULINK simulation tools
+
+Desired Characteristics
+
+ Process improvement or RCA experience or certification Experience working in HVDC industry
+
+The North Europe Grid System Integration (GSI) team delivers a wide range of turnkey high voltage AC and DC transmission projects to its Customers in the UK, Ireland, and Scandinavia.
+
+Grid Solutions, a GE Vernova business, serves customers globally with over 20,000 employees. We provide power utilities and industries worldwide with equipment, systems and services to bring power reliably and efficiently from the point of generation to end power consumers. Grid Solutions is focused on addressing the challenges of the energy transition by enabling the safe and reliable connection of renewable and distributed energy resources to the grid. We electrify the world with advanced grid technologies and accelerate the energy transition.
+
+About GE Grid Solutions
+
+At GE Grid Solutions we are electrifying the world with advanced grid technologies. As leaders in the energy space our goal is to accelerate the transition for a more energy efficient grid to full fill the needs of tomorrow. With a focus on growth and sustainability GE Grid Solutions plays a pivotable role in integrating Renewables onto the grid to drive to carbon neutral. In Grid Solutions we help enable the transition for a greener more reliable Grid. GE Grid Solutions has the most advanced and comprehensive product and solutions portfolio within the energy sector.
+
+Why We Come To Work
+
+At GE Renewable Energy, our engineers are always up for the challenge - and we’re always driven to find the best solution. Our projects are unique and interesting, and you’ll need to bring a solution-focused, positive approach to each one to do your best. Surrounded by committed, loyal colleagues, if you can dare to bring your ingenuity and desire to make an impact, you’ll be exposed to game-changing, diverse projects that truly allow you to play your part in the energy transition.
+
+What We Offer
+
+A key role in a dynamic, international working environment with a large degree of flexibility of work agreements
+
+Competitive benefits, and great development opportunities.
+
+Additional Information
+
+Relocation Assistance Provided: No

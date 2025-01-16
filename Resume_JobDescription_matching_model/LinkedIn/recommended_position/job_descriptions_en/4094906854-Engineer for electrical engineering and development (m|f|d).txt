@@ -1,0 +1,70 @@
+
+https://www.linkedin.com/jobs/search/?currentJobId=4094906854
+
+Engineer for electrical engineering and development (m/f/d)
+
+
+
+Date Posted:
+
+2024-11-20
+
+Country:
+
+Germany
+
+Location:
+
+DEUBY114: Freising Raytheon Germany, Kulturstrasse 105, Freising, BY, 85356, Germany
+
+Position Role Type:
+
+Unspecified
+
+We at Raytheon Deutschland GmbH are a medium-sized company with around 50 employees in Freising and are part of the globally active Raytheon Technologies group based in the USA. As an approved aviation company, we develop and support sensor systems and software for flying platforms.
+
+You will
+
+Develop system components for a radar receiver, create the requirements/specifications, create and check test plans, test the system in the laboratory and put it into operation, analyze the errors in the hardware components, develop and set up HW/SW test equipment, create studies and simulate algorithms
+
+You have
+
+a completed engineering degree in electrical engineering - or a comparable qualification programming knowledge (e.g. C++, VHDL, scripting languages) knowledge of Matlab enjoy working in a team - are open-minded and friendly enjoy solving problems an independent and structured way of working with an eye for detail a confident use of MS Fluent German skills and good written and spoken English skills
+
+We offer
+
+permanent employment, 36.5 hours/week and 30 days of vacation per year, flexible working - also hybridFlex Friday model, guaranteed Christmas and vacation pay, employer-financed company pension plan, tax-deferred salary conversion, canteen at favorable conditions, company celebrations and extra-company events, job wheel and advantageous conditions for company fitness within walking distance
+
+You are also welcome to contact us personally:
+
+Eva Huttinger
+
+Office: +49 8161 902 218
+
+Mobile: +49 170 8500 661
+
+eva.huettinger@rtx.com
+
+Celina Czwink
+
+Office: +49 8161 902 219
+
+Mobile: +49 151 7448 2788
+
+c-czwink@raytheon.com
+
+Information on data protection during transmission 
+
+If you apply via the RTX online portal or other recruiting platforms on which the position is advertised by RTX, be sure to note RTX's data protection information, as it is not a platform of Raytheon Deutschland GmbH. RTX's data protection information can be accessed at https://www.rtx.com/privacy.
+
+To ensure the security of your data, we recommend that you only send your application documents in encrypted form by email, otherwise we cannot guarantee confidentiality when transmitting the email for technical reasons due to the global structure of RTX and its mail systems. Download the following PGP public key to your computer and import it into your keyring. To use it, you usually need an add-on to your email program; some email programs also offer a built-in encryption function.
+
+Download PGP public key. Fingerprint: 0CD5 3F25 469F C33B 5B2B 00D5 F90D E73D 7868 96D7
+
+We also need a key from you in order to respond to your email. Enclose this in your electronically signed email or refer to the certificate service provider or key server from which we can download your key. Further information on encryption and sending encrypted emails can be found on the website of the Federal Office for Information Security (BSI) https://www.bsi.bund.de/dok/11486410.
+
+RTX adheres to the principles of equal employment. All qualified applications will be given careful consideration without regard to ethnicity, color, religion, gender, sexual orientation or identity, national origin, disability, protected veteran status or any other characteristic protected by law.
+
+Privacy Policy and Terms:
+
+Click on this link to read the Policy and Terms

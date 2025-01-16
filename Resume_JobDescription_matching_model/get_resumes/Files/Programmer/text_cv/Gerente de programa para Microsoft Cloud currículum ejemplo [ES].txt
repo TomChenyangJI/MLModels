@@ -1,0 +1,71 @@
+<#$%
+https://www.kickresume.com/en/help-center/gerente-de-programa-para-microsoft-cloud-curriculum-ejemplo-es-resume-sample/
+#$%>
+
+Gerente de programa para Microsoft Cloud currículum ejemplo [ES] (Full Text Version)
+
+Paul Ryan
+
+Dirección: 9999, Toronto, Canada
+Correo electrónico: contact hidden
+Número de teléfono: contact hidden
+Web: www.kickresume.com
+Perfil
+Actualmente trabajo como arquitecto de soluciones en el Cloud con varios años de experiencia en TI. Trabajo con grandes clientes empresariales para diseñar soluciones que aprovechen sus datos y las conviertan en soluciones inteligentes.He sido presentado en el Muro de expertos de Microsoft y he sido orador en varias conferencias técnicas de Microsoft a nivel internacional.
+
+Habilidades
+
+Azure Active Directory
+Azure Data Factory
+Azure Data Catalog
+SQL Data Warehouse
+Power BI
+Azure Data Lake Store
+Azure Data Lake Analytics
+Cognitive Services
+Machine Learning
+Office 365
+Hybrid Cloud and Azure Stack
+Identity and Access Management Solutions
+Identity as a service (IDaaS)
+Single Sign-On (ADFS, SailPoint, Okta)
+Enterprise Mobility / Microsoft Intune
+Cloud IaaS / PaaS
+
+Experiencia laboral
+
+06/2013 - present, Arquitecto de Soluciones en Cloud, Microsoft Canadá, Toronto, Canadá
+
+En mi función actual, soy miembro del equipo de Microsoft’s Cloud Solutions Architect, donde arquitecto e implemento soluciones empresariales basadas en Microsoft Azure. También trabajo en estrecho contacto con el equipo de ventas de Microsoft que brinda asistencia técnica de preventa sobre oportunidades potenciales que pueden aprovechar Microsoft Azure Suite.Las principales responsabilidades en mi posición actual incluyen trabajando con clientes empresariales que desarrollan soluciones en torno a:1. Gestión de la información, grandes almacenes de datos, aprendizaje automático, analítica y servicios cognitivos.2. Transformación del centro de datos (implementaciones de MV, interconexión, ExpressRoute).3. Seguridad, Cumplimiento y Privacidad (Identidad, Gobierno, RBAC).
+
+06/2012 - 06/2013, Gerente de Programa en Cloud, Microsoft EE.UU., Redmond, EE.UU.
+
+He liderado el negocio de WW Cloud para Microsoft Global Delivery con la responsabilidad de soluciones comerciales. También fui responsable del negocio de migración de Office 365 para la América del Norte para Microsoft Global Delivery con objetivos de crecimiento y entrega.He administrado un equipo de más de 20 consultores con objetivos CSAT y tuve respuestas exitosas de grandes RFP.Las siguientes fueron las principales responsabilidades que tuve cuando en cargo:1. Ejecute el negocio de informática en Infra y Cloud para Microsoft Global Delivery desde el plan de negocios, la estrategia de adquisición de clientes, hasta el plan de mercado, preventa y entrega.2. Lideré con éxito respuestas de RFP multimillonarias y ganando negocios.3. Concebido e implementado modelo de Servicios Industrializados para la computación en el Cloud y los servicios de infraestructura.4. He conceptualizado y operacionalizado un modelo único de fijación de precios basado en la tarjeta de tarifas utilizando mi Microsoft globalmente para vender servicios de migración.5. Fui responsable en encabezar la fábrica de migración en el Cloud que migró más de 1 millón de buzones de correo.6. Fui exitoso en la entrega de más de 30 proyectos con 100% CSAT.
+
+06/2010 - 06/2012, Evangelista Técnico, Microsoft Global Delivery, India / Japón
+
+He llevado el negocio de IaaS Cloud para Microsoft Global Services y fue responsable de mantener y mejorar la estrategia del Cloud. Como miembro del equipo de despliegue Microsoft World Wide, mi responsabilidad fue trabajar con los líderes empresariales de Microsoft para formular la estrategia de Servicios mundiales de Microsoft para IaaS.Los objetivos clave eran:1. Lograr los ingresos asignados y los objetivos de Office 365 de uso/consumo en todo el territorio de APAC.2. Construir una base de Cloud para los ingresos a largo plazo.3. Asegurar la adopción y migración exitosa del Cloud a Office 365.4. Mejorar la satisfacción del cliente con los clientes empresariales y las propias relaciones de nivel ejecutivo de clientes clave en el territorio asignado.5. Trabajar con los equipos de ventas de Office 365 para cerrar oportunidades.
+
+02/2007 - 05/2010, Consultor de Infraestructura, IBM, India
+
+Trabajando en IBM, lideré un equipo de ingenieros para consolidar y migrar el entorno de infraestructura de Vodafone Telecom. Este proyecto incluyó la migración a la última versión del intercambio, la migración de los buzones de correo del usuario, la actualización de Active Directory y la migración de los escritorios de los usuarios a la última versión.
+
+06/2004 - 01/2007, Gerente de producto, Avaya, India
+
+En Avaya, fui gerente de producto para "Mensajería modular" - un producto ofrecido por Avaya para la integración del correo de voz en el entorno de Microsoft Exchange. Actué como un puente entre los equipos de desarrollo y soporte que asistían con el ciclo de vida y soporte del producto y fui responsable del producto entero. A lo largo de los años, el producto ha sido renombrado como 'Avaya Aura Messaging'.
+
+Educación
+
+06/2015 - 06/2016, Educación ejecutiva, INSEAD
+
+Estrategia de negocios y visión financieraInnovación del modelo de negocio
+
+06/2000 - 06/2004, Licenciatura en tecnología (Ciencias de la Computación), Kurukshetra University
+
+Certificados
+
+03/2016, Arquitecto de Office 365 Solutions, Microsoft
+
+06/2015, Arquitecto de Azure Solutions, Microsoft
+
+06/2012, ITIL, ITSM

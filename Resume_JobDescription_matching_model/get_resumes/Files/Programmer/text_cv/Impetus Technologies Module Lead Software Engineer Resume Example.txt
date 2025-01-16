@@ -1,0 +1,83 @@
+<#$%
+https://www.kickresume.com/en/help-center/impetus-technologies-module-lead-software-engineer-resume-sample/
+#$%>
+
+Impetus Technologies Module Lead Software Engineer Resume Example (Full Text Version)
+
+Vikas Gurnani
+
+Email address: hello@kickresume.com
+Phone number: 555-555-5555
+Profile
+Over 8 years of progressive experience including 4+ years in Big Data and Cloud and 4 years in enterprise applications.Extensive experience in the Big Data Technologies such as Hadoop, Hive, Oozie, Sqoop,  Spark, Kafka, Flume, Hbase, NIFI.Proven developer in Java(till 1.8),Scala, Struts , Webservices,  Oracle 10g, UNIX , Spring.
+
+Work experience
+
+01/2016 - present, Module Lead Software Engineer, Impetus Technologies, Noida, India
+
+Project : HIDI - Batch and Near Real Time AnalyticsClient : Change Healthcare            Duration : 01/2018 - PresentProject Profile: Ingestion and analysis of HL7 feeds received at high volume from various hospitals across the United States. Tech Stack : HDP 2.6, HDFS, Yarn , Hive 1.2, HDF, Nifi 1.5, Oozie, UNIX, Ranger, SparkRole:  Module LeadResponsibilities: Brought down the ingestion time from 30 mins to 2.5 mins for a set of 10 files received periodically.Brought new business to the organization through relentless networking and stewardship. Pioneered cluster capacity evaluation through a successful POC, followed by its implementation.Firefighting near real time data streaming problems, dealt with high volume.
+
+05/2014 - 12/2015, Senior Software Engineer, Sopra Steria, Noida, India
+
+Project :  Sopra Banking Framework IsolationDuration: 05/2014 - 12/­­2015.Tech Stack : JSF 2.1, J2EE, Maven, SpringRole: Developer, Lead.  Responsibilities: Created Solution Detailed Design Documents.Redesigned the project structure, modernizing the stack to embrace APIs.Brought the legacy and modernized system to same level of features.Performed in-depth analysis for decoupling.
+
+11/2011 - 02/2014, Software Engineer, Nucleus Software, Noida, India
+
+Project : FinnOne CASDuration : 11/2011 - 02/2014Project Profile :  Customer Acquisition for retail and corporate lending.Tech Stack : Java, JSP, Servlets, Struts 1.1, EJB 3.0, JMS, Oracle 9i/10g, Oracle 11g AS.Role: Developer, Production Support.Responsibilities:Developed complex functional modules like Deduplication, DMS.Performance Tuning, security enhancement, production support, enhancements, bug fixing.
+
+Education
+
+07/2007 - 06/2011, Bachelor of Technology, Computer Science, Kurukshetra University, India
+
+Skills
+
+Languages
+Java
+Scala
+
+Big Data Technologies
+NIFI
+Spark 1.6, 2.X
+Hive
+Kafka
+HDP, HDF
+Sqoop, Oozie
+Map Reduce
+
+NoSQL Databases
+Cassandra
+Hbase
+
+Development Life Cycles
+Waterfall, Agile
+
+Relational Databases
+Oracle, SQL Server
+
+Enterprise Application Frameworks
+MVC - Struts 1.X, JSF
+ORM - Hibernate
+Spring
+
+Cloud Platforms
+Azure
+
+Version Control & Build Tools
+Git, SVN, TFS, Maven, SBT, Jenkins
+
+Operating Systems
+Windows, Linux
+
+Awards
+
+01/2019, Star of the Month, Impetus Technologies
+
+01/2018, Star of the month, Impetus Technologies
+
+10/2015, Bon Travail, Sopra Steria
+
+11/2012, Spot Light of the Month, Nucleus Software
+
+Certificates
+
+01/2020, Azure Developer Associate, Microsoft

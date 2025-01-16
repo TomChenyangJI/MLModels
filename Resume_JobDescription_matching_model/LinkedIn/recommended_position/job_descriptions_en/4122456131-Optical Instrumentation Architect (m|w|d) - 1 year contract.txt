@@ -1,0 +1,12 @@
+
+https://www.linkedin.com/jobs/search/?currentJobId=4122456131
+
+Optical Instrumentation Architect (m/w/d) - 1 year contract
+
+
+
+Project descriptionThe role of a Senior Optical Instrumentation Architect is to specify, design and validate novel measurement systems. The candidate will work in a group of scientists, responsible for developing next-generation light field cameras and 3D displays for metrology applications, including hardware, software, instruments and fixtures.
+ResponsibilitiesDefinition of instrument’s specifications based on metrology requirementsOptical system architecture of novel light field camera and 3D displays.Benchmarking of various optical architectures to optimise value proposition for specific metrology use case.Work as a part of an interdisciplineary team to design, build and validate proof-of concept prototypes.Data collection and analysis for first prototypes
+SkillsMust haveIndustry R&D background with at least 5 years work experience outside of academiaStrong theoretical and experimental background in Optical EngineeringAdvanced knowledge and experience in design, manufacturing and operation of optical instruments for metrology applications.Experienced in writing technical specification for optical systemsData analysis using Matlab and/or Python (Pandas, NumPy, Matplotlib)Familiar with calibration and manufacturing of optical instrumentsHands-on experience in calibrating imaging optical systems, including depth reconstruction (e.g. stereographic cameras)Proven track record in the development of at least one of the following technologies:3D Lenticular displays3D Depth Sensors and LidarShack-Hartmann SensorsOptical tomography, holographySelf-motivated, independent, and dedicated.Excellent English, Communication and presentation skills.
+Nice to haveHands-on experience in optical design tools (Zemax, Code V) are a plus.Hands-on experience in mechanical CAD tools (Solidworks, Siemens NX, Autodesk Inventor) are a plus.Ability to leverage opto-mechanical FEA results to the optical model is a plusKnowledge about optical manufacturing & assembly limits and artifacts is a plus
+Languages:English C1 - Fluent

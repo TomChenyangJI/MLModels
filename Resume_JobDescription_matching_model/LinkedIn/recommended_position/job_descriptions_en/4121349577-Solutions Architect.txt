@@ -1,0 +1,18 @@
+
+https://www.linkedin.com/jobs/search/?currentJobId=4121349577
+
+Solutions Architect
+
+
+
+Solutions Architect (Analytics)PermanentMunich€100,000 - €130,000
+Our client is a leading insurance organisation and is looking for a Solutions Architectto join the team permanently.
+This is an exciting time to join the business where you will be responsible for developing the Big Data and Analytics platform.
+You will be responsible for the architecture design and end-to-end implementation.
+Responsibilities:
+Design, develop, and implement a scalable Data & AI platform architecture.Design and optimise cloud infrastructure using Azure.Implement continuous integration and continuous deployment (CI/CD) pipelines.Maintain comprehensive architecture documentation
+Full job spec will be provided upon request.
+Skills/ Experience:
+Prior architecture projectsData Analytics / LLMPythonCloud (Azure a bonus)Microservices
+If interested or for further information, please apply asap.
+Keywords – Technical Architect, AI Architect, Data Architect, Analytics Architect, Data Analytics, Solution Architect

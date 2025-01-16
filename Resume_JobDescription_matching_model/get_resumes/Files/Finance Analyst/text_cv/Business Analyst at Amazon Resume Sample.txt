@@ -1,0 +1,75 @@
+<#$%
+https://www.kickresume.com/en/help-center/business-analyst-at-amazon--resume-sample/
+#$%>
+
+Business Analyst at Amazon Resume Sample (Full Text Version)
+
+Melanie Roseaau
+
+Email address: hello@kickresume.com
+Phone number: 999-999-999
+
+Skills
+
+Data Management
+Excel
+Service Now
+Power BI
+SAP S4 Hana
+SQL
+Data Analytics
+Tableau
+
+Languages
+English
+Spanish
+
+Work Experience
+
+07/2022 - 04/2023, SCM Business Analyst, AG Coders
+
+Implemented ERP & CRM systems by collaborating with cross-functional teams to design and execute a robust data management framework, incorporating data mapping, transformation rules, and quality assurance processes. Ensured the accuracy and reliability of information for decision-making.Led user acceptance testing (UAT) efforts by developing test plans, coordinating test cases with stakeholders, and facilitating defect resolution. Resulted in a successful system deployment and improved user satisfaction.Managed KPIs and conducted data analysis using statistical modeling techniques to deliver valuable insights, enabling informed decision-making.Demonstrated expertise in Agile Methodologies, Control-M, Unix, and SQL.
+
+05/2019 - 10/2021, WW Business Intelligence Analyst, Hewlett Packard
+
+Implemented data-driven strategies to optimize business processes for Worldwide Demand and Supply Planning Operations and AMS Business Operations.Developed Power BI Dashboards, including database analysis and insights, query development, KPIs management, and performed root cause analysis resulting in significant business impact.Collaborated with cross-functional teams to identify business requirements and translated them into actionable insights and reports.Trained Power BI users and served as the first line of contact for reporting tool-related inquiries.Maintained multiple business intelligence tools and databases.
+
+05/2018 - 05/2019, Supply and Demand Planning, Hewlett Packard
+
+Spearheaded monthly demand planning and forecasting initiatives, efficiently supervising order and shipment logistics, and coordinating export and import requirements.Analyzed and proficiently managed supply materials to enhance material availability and mitigate the risks of shortages.Demonstrated expertise in inventory management across product life cycles.Consistently generated and presented comprehensive status reports on forecast and inventory, on a daily and weekly basis.Contributed to the Sales and Operations Planning (S&OP) process.
+
+Education
+
+2014 - 2018, Bachelors Degree, Industrial Engineering, Tecmilenio University
+
+Strengths
+
+Analytical
+Strategic
+Problem-solving
+Organized
+Detail-oriented
+Strong communicator
+Business Storytelling
+
+Certificates
+
+2023, SCRUM Master Fundamentals, PluralSight
+
+2021, SCRUM Master, Hewlett Packard
+
+2021, Woman Incubator Lean In to Lead, Hewlett Packard
+
+2020, WIN Talent Development Program, Hewlett Packard
+
+2020, SQL, UdeMy
+
+2017, Green Belt, Lean Six Sigma Institute
+
+Hobbies
+
+Traveling
+Volunteering
+Build Community
+Hiking
+Swimming

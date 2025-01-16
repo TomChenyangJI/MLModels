@@ -1,0 +1,61 @@
+
+https://www.linkedin.com/jobs/search/?currentJobId=4102823309
+
+Master's student in traffic complexity in driver assistance systems (f/m/x)
+
+
+
+THE FUTURE OF MOBILITY? DIGITAL.
+
+SHARE YOUR PASSION.
+
+More than 90% of all innovations in automobiles are based on electronics and software. This is where great freedom and networked thinking are required in order to reinvent mobility and enable a completely new driving experience. That's why we not only give students the opportunity to listen, but also to have a say and think ahead.
+
+We, the BMW Group, offer you an exciting and varied master's thesis in the area of ​​developing automated driving functions. Work with us to shape the future of automated driving by exploring a new approach to adaptive driver assistance that brings automated driving pleasure to our customers.
+
+What awaits you?
+
+As part of your master's thesis, you will investigate a new approach to determining the complexity of a traffic situation based on driver behavior. You will identify state variables of traffic complexity that are relevant for the driver using a large data set from real traffic and driving simulation. Approaches with (explainable) artificial ones can also be used Intelligence is used. You will also derive further state variables from the state of the art based on a literature search. Based on your results, you will develop an initial approach to the complexity of a To determine the driving situation in the vehicle. Our research has a direct application relevance and directly influences the further development of our automated driving functions.
+
+
+What are you bringing with you?
+
+Study of engineering, computer science, human factors or a similar course of study. Very good programming knowledge in Python, C++ or comparable programming languages. Proficient in handling data and knowledge of data analysis. Experience with (explainable) artificial intelligence, for example through a major in your studies. Interest in driver assistance systems and Traffic engineering.Organized and independent work, analytical thinking skills and the willingness to familiarize yourself with new areas of responsibility.Very good knowledge of German and good English.
+
+
+Are you enthusiastic about new technologies and an innovative environment? Apply now!
+
+What do we offer you?
+
+Comprehensive mentoring & onboarding.Personal & professional development.Flexible working hours.Mobile work.Attractive remuneration.Apartments for students (subject to availability & only at the Munich location).And much more see bmw.jobs/waswirbieten.
+
+
+At the BMW Group, we see diversity and inclusion in all its dimensions as a strength for our teams. Equal opportunities are particularly important to us, and the equal treatment of applicants and employees is a fundamental principle of our corporate policy. Our recruiting decisions are therefore based on your personality, experience and skills.
+
+More about diversity at the BMW Group at bmwgroup.jobs/diversity.
+
+Start date: from January 20, 2025
+
+Duration: 6 months
+
+Working hours: full time
+
+Contact:
+
+BMW Group HR team
+
++49 89 382-17001
+
+Master's student in traffic complexity in driver assistance systems (f/m/x) 
+
+Corporate division: BMW AG
+
+Location: Munich
+
+Working area: driver assistance systems
+
+Job ID: 148512
+
+Release date: 12/16/2024
+
+Internship/thesis

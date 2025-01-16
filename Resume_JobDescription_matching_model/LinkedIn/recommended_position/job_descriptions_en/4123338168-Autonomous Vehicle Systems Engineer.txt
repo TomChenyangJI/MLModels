@@ -1,0 +1,10 @@
+
+https://www.linkedin.com/jobs/search/?currentJobId=4123338168
+
+Autonomous Vehicle Systems Engineer
+
+
+
+Overview:My client is at the forefront of autonomous vehicle technology, leading efforts in vehicle experiments, technology integration, and fleet systems development. They are seeking an experienced and hands-on Autonomous Vehicle Systems Engineer to join their team. This role involves configuring, installing, and testing cutting-edge hardware and software systems for autonomous vehicles, along with managing day-to-day experiments and troubleshooting multi-disciplinary systems.
+Key Responsibilities:Configure and test vehicle MCU systems and on-board computing devices.Perform system installations, integrating complex computerized systems into autonomous vehicle fleets.Conduct mechanical assembly and installation of peripheral components, including wiring, soldering, crimping, and infrastructure setup.Disassemble and reassemble vehicle components such as bumpers, dashboards, mirrors, and seats.Utilize workshop tools such as drills, grinders, and saws for system retrofitting and assembly.Debug and troubleshoot multidisciplinary systems involving hardware, software, networking, and power systems.Ensure proper functionality of AC/DC power systems and connectivity.Work with testing tools, including OBD2 scanners, multimeters, oscilloscopes, and battery analyzers.Collaborate with cross-functional teams to identify and resolve system issues.
+Required Qualifications:Background in Mechatronics or as a Practical Technician.Hands-on experience with system assembly, wiring, soldering, and installation.Proven experience in configuring and troubleshooting computer systems and components.Knowledge of networking protocols such as TCP/IP, CAN, and FlexRay.Proficiency in using diagnostic tools like OBD2, multimeters, and battery analyzers.Strong technical expertise in vehicle installation and troubleshooting.Excellent problem-solving skills and system-level understanding.Fluent in English.

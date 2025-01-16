@@ -1,0 +1,51 @@
+
+https://www.linkedin.com/jobs/search/?currentJobId=4123344197
+
+Engineer (f/m/d) for system design of HVDC systems
+
+
+
+Snapshot of your day 
+
+In system design, we use our studies to lay the theoretical foundation of HVDC systems and create a technically optimal solution for our customers to meet the challenges of the energy transition. Everyday work is very varied, as no two HVDC projects are the same. Carrying out detailed design calculations using analytical or simulation methods is therefore just as much a part of our daily tasks as collaborating and coordinating with other teams within Siemens Energy in order to achieve the best solution for our customers. We also present the results of our design studies to our customers and, if necessary, provide evidence of these using suitable measurements and tests. There is also the opportunity to promote and help shape cross-team collaboration within the HVDC area through training, workshops, continuous improvement or digitalization topics.
+
+How you can make a difference
+
+Development of HVDC system concepts as a solution to individual project requirements to support the energy transition worldwide Creation of design-relevant studies for HVDC projects in the offer and execution phase (e.g. stationary design of the operating range of HVDC systems or transient design of the insulation coordination of the HVDC system) Close cooperation and coordination with others Teams from the HVDC area for the versatile optimization and further development of complex HVDC overall systems (e.g. neighboring teams in engineering, Sales, inverter development, control and protection technology) Participation in research and development of novel HVDC applications, in agile teams from different specialist areas. Opportunity to take over sub-project management for system design in complex large-scale HVDC projects from the offer to commissioning
+
+
+What you bring with you 
+
+Completed master's degree in electrical engineering, ideally with a focus on power electronics, high-voltage technology, energy transmission systems or high-frequency technology Willingness to learn new things, independence and initiative, solution-oriented action Knowledge and interest in simulation tools and programming languages ​​(e.g. PSCAD, Matlab) Several years of experience in the field of high-voltage direct current transmission Applications from university graduates are also possible welcomeVery good knowledge of German and English and ideally experience in intercultural cooperation 
+
+
+About the team
+
+As a passionate and highly motivated team in HVDC engineering, we take care of the system design of HVDC systems. Through extensive design studies, we always develop the optimal solution for our customers' complex requirements.
+
+Through mentoring concepts and internal training, we actively share our knowledge in order to grow together as a team. We work in the hybrid office concept in an open and committed working atmosphere.
+
+Due to the increasing share of renewable energies, the growing demand for energy, the outdated infrastructure and the increasing complexity, new connections are needed. But the existing networks also need to be retrofitted and renewed in order to support the energy transition.
+
+Who is Siemens Energy?
+
+At Siemens Energy, we are more than just an energy technology company. We cover the growing energy needs in over 90 countries and ensure our climate is protected. With over 94,000 dedicated employees, we not only generate electricity for over 16% of the world's population, but also use our technology to protect people and the environment.
+
+Our global team is committed to making sustainable, reliable and affordable energy a reality by continually pushing the boundaries of what is possible. We are proud of our 150-year heritage of innovation, which encourages us to look for people who support our focus on carbon reduction, new technologies and energy transition.
+
+Find out more about how you can make a difference at Siemens Energy: https://www.siemens-energy.com/employeevideo
+
+Our commitment to diversity 
+
+It's a good thing we're not all the same. Diversity makes us powerful. We thrive on inclusion and our shared creative energy is fueled by over 130 nationalities. Siemens Energy relies on character - regardless of ethnic background, gender, age, religion, identity or disability. We power society - all of society - and we do not discriminate based on differences that exist between us.
+
+Benefits
+
+In addition to an attractive, market-based compensation package, you can expect an attractive employer-financed company pension plan. We also offer the opportunity to become a shareholder of Siemens Energy at very interesting employee conditions. Under our motto #BetterTogether, we offer our employees the opportunity to work flexibly and remotely. But our offices also leave nothing to be desired and offer space for inspiring collaboration and creativity. The professional and personal development of our employees is very important to us. With us you have the opportunity to learn and develop yourself. There are a variety of attractive programs and measures available for this purpose. We have a wide range of offerings under the aspect of "combining family and work", e.g. flexible working time models, childcare places at many locations, the possibility of trial part-time work or even a sabbatical. Active participation in shaping the energy transition through participation in global HVDC Projects as part of multicultural teams Development of innovations in HVDC technology as well as the opportunity to participate and help shape committee work (including IEC, Cigré) Sophisticated mentoring concept and internal training to build up technical expert knowledge in the HVDC area. Further development and job rotation to other areas within the HVDC (e.g. project management, inverter development, sales, control and regulation technology), based on your own strengths
+
+
+Are you ready to actively contribute to the energy transition and immerse yourself in a thriving market environment where innovation and growth intersect? Would you like to work on projects that provide the key technology to transmit electricity from where it is generated to where it is needed, and even connect countries? If so, are you ready to enter the dynamic world of energy transmission with Siemens Energy? We are looking for passionate individuals to join our engineering teams on this 12-month upskilling program. The program includes learning cycles, networking events, classroom and virtual training, and hands-on training to familiarize our new team members with the necessary HVDC (High Voltage Direct Current Transmission) technical skills. Personal and professional development are also the focus of this exciting program, as is the opportunity to visit international locations.
+
+We value equal opportunities and welcome applications from people with disabilities.
+
+https://jobs.siemens-energy.com/jobs

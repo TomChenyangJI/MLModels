@@ -1,0 +1,111 @@
+<#$%
+https://www.kickresume.com/en/help-center/senior-solution-architect-amazon-sample-resume-sample/
+#$%>
+
+Senior Solution Architect at Amazon CV Sample (Full Text Version)
+
+Ana Furlore
+
+Certifications: Microsoft® Certified Solutions Expert: Cloud Platform and Infrastructure
+Date of birth: 1999-11-09
+Email address: hello@kickresume.com
+Phone number: 9885557908
+Role: Senior Lead
+Profile
+17+ years demonstrated experience in designing, architecting and supporting enterprise-level internet scale services/solutions hosted on Cloud and On-premise technologies. Experience working closely with Software Engineering, especially in the aspects of system performance, capacity management and scalability to ensure sustained service stability, SLA's and Business KPI's. Possess a sound understanding of Infrastructure aspects such as server configurations, storage, network architecture, DataCenter Architecture in terms of HA and BCDR as well as enterprise security.
+
+Strengths
+
+Collaboration
+Leadership
+Delegation
+Quick Learning
+Reliable
+Cloud
+Solution Architecture
+
+Work experience
+
+10/2012 - present, Senior Lead -  Service Engineer, Microsoft India (R & D) Pvt. Ltd., Hyderabad, India
+
+· Leading a team of Service Engineers/Architects and Vendors to support mission critical applications for CSS & Enterprise Service Business· Designed and Implemented end to end Cloud Migration Strategy for multiple critical applications to Azure IaaS/PaaS· Leading Cloud & DevOps Vertical for the entire BPU providing best processes & practices and evolving the organization towards DevOps Model· Involved in reviewing and providing guidance in design and architecture discussions related to multiple migration projects· Designed, executed and Implemented BCDR Drills inline with RTO and RPO for critical apps· Managed & completed e2e critical DataCenter Migration Projects from On-premise DC to another DC or to Cloud· Preparing and Presenting Monthly Service Reviews with Senior Leadership· Successfully ensured compliance for Service Health Matrix, Stay Current Compliance and Security Audits· Lead the Azure Cloud Optimization effort and realized a total savings of USD 5.2M/year· Handled team Performance appraisal sessions, analyzed training requirements and skill gap analysis for a high performance team· Actively involved in Service Engineering Hiring for Senior IC position· Managed multiple Supplier (Vendor) Transitions, Resource Forecast and Billing Rates across supplier partners
+
+04/2006 - 09/2012, Senior Service Engineer, Microsoft India (R & D) Pvt. Ltd., Hyderabad, India
+
+· Successfully managed e2e Production Support for critical Finance Applications & MDM Programs· Manager delegate during critical issues, strategic decision making and presenting MBR’s to stakeholders· Implemented proactive health-check, monitoring  for critical exceptions· Collaborated with Senior Design Engineers to conduct Tech Talks every month · Successfully Managed critical DataCenter Migration Projects · Designed Service Design Whitepaper which encompasses Service Design Standards around Critical Service & Operational Imperatives - Highly Available and Scalable Architecture, Auto Failover and Failback Mechanisms, Monitoring Instrumentation, Security, Error Logging, Data-Retention, BCDR, Rollback Plans, Zero Downtime Deployments· Lead and Setup SCOM and configured platform and application MOM packs· Re-architected MDM Topology and eliminated 200 hours of yearly downtime· Improved Monitoring Maturity for critical applications from 60% to 90%· Re-defined SQL Indexing Strategy and eliminated downtime of 60 hours· Automated MDM Data Refresh Process eliminating manual intervention and significantly shrinked the overall refresh time from 5 days to 24 hours · Implemented Service Auto heal system to auto-recover Services from failures. · Eliminated ~2000 Service Failure Alerts and ~200 ticket reduction
+
+08/2005 - 04/2006, Senior SQL Database Administrator, Computer Sciences Corporation India Pvt. Ltd. (CSC), Hyderabad, India
+
+· Senior Production Support DBA for 500+ SQL Servers for the Largest Mail Provider in UK· Involved in Project Work related to testing and installation of new Production SQL Server Life Cycle which includes Capacity Planning, SQL Installation, Memory/Disk management, Database Configuration, SQL Health Check Jobs, Backup/Recovery Testing·  Monitoring the Database Optimization, Performance, Integrity and Disaster Recovery for 1000+ Databases· Handling Replication issues like Performance, schema changes/updations
+
+02/2004 - 08/2005, QA Engineer, BMC Software, Pune, India
+
+·  QA testing for SQL Backtrack product ·  Writing of testcases and testing different scenarios on SQL Backtrack ·  Validating failure scenarios and negative testing
+
+08/2000 - 02/2004, Head - Information Technology, Jehangir Hospital  (Apollo Hospitals Group), Pune, India
+
+· Successfully managed e2e IT Infrastructure & 24*7 Uptime of HMS · Responsible for technical support operations in high-volume, 24x7 environment, including supervision of technical support team and coordination of technical issues involving network, hardware and operating systems· Developed Software packages for various departments like Blood bank, Health Checks, etc· Designed and Implemented Entire Network Infrastructure for Jehangir Hospital comprising of over 1000 nodes with Fiber Optic as backbone
+
+Skills
+
+Cloud
+Azure - IaaS/PaaS
+AWS
+
+Windows
+Server Administration
+Active Directory
+Networking
+
+SQL Server
+Database Administration
+Database Migration
+T-SQL
+HA/DR - SQL Log Shipping, Clustering, DB Mirroring, Always-On
+
+DevOps
+VSTS - Visual Studio Team Services
+Azure ARM - IaaC
+CI/CD
+
+Monitoring Platforms
+Azure AppInsights
+SCOM
+Sitescope
+
+Network
+Load Balancers - HLB, NLB, GTM
+ACL
+Firewall, DNS, Dual-Homing
+
+Scripting
+Powershell
+
+Vitualization
+Hyper-V
+VMware
+Nested Virtualization
+
+Certificates
+
+05/2017, MCSE : Cloud Platform and Infrastructure
+· Developing Microsoft Azure Solutions· Implementing Microsoft Azure Infrastructure Solutions· Architecting Microsoft Azure Solutions
+
+12/2009, MCTS
+Installing, Configuring and Administering Microsoft SQL Server Enterprise Edition
+
+07/2000, MIcrosoft Certified Professional
+Designing and Implementing Desktop Applications with Microsoft Visual Basic
+
+Education
+
+03/2014 - 03/2016, MBA - IT, Sikkim Manipal University, Hyderabad, India
+
+03/1997 - 03/2000, Bachelor Degree - Commerce, Ness Wadia College of Commerce, Pune, India
+
+04/1997 - 04/2000, Software Engineering, GNIIT, Pune, India
+
+Awards
+
+Microsoft
+·      Received multiple Excellence Awards in Operations Excellence·      Received Microsoft Gold Star Award·      Received the “IT Excellence Award”·      Received the “Connect the Company” Award

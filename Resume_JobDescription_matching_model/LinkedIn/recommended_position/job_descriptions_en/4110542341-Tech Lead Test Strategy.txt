@@ -1,0 +1,42 @@
+
+https://www.linkedin.com/jobs/search/?currentJobId=4110542341
+
+Tech Lead Test Strategy
+
+
+
+Join our Team
+
+Location: Rosenheim
+
+About This Opportunity
+
+Are you ready to shape the future of antenna technology? Join our Industrialization & Verification (TI) team, an integral part of EAS R&D. We specialize in validation, verification, and industrialization of cutting-edge antenna products and components. Now, we're seeking a Tech Lead Hardware Test Strategy to revolutionize our end-to-end testing strategy, triggering cutting edge-technology, enhancing efficiency, reducing time-to-market, and cutting costs.
+
+What You Will Do
+
+Develop and own the end-to-end (E2E) test plan for antenna design bases, platforms, and variants.Harmonize and orchestrate the testing landscape across antenna development projects.Drive continuous improvements in E2E testing through strategic alliances and feedback loops.Embed a Design-for-Test mindset within the organization to optimize processes and outcomes.Innovate testing methodologies with automation, collaboration, and simplification.Scrutinize product requirements and ensure alignment with testing strategies.Support Moderate and coach a team of interdisciplinary specialists, fostering collaboration and excellence.
+
+You will bring
+
+A Bachelor’s, Master’s, or PhD in Engineering or an equivalent qualification.Proven experience in R&D, particularly in test requirements, parameters, and performance.Familiarity with mobile communication technologies (antennas, radios, etc.) is a strong plus.Exceptional interpersonal and communication skills with a passion for teamwork.An analytical, structured, and results-oriented mindset.Strong capabilities to drive change, transformation, and continuous improvement.Experience managing stakeholders across all levels.Proficiency in English, both written and spoken; German skills are a plus.
+
+What We Offer
+
+A dynamic, challenging, and collaborative work environment.The opportunity to work on groundbreaking antenna test technologies.A diverse and inclusive team that fosters innovation through knowledge sharing.Professional growth opportunities in a global, forward-thinking organization.
+
+Why join Ericsson?
+
+At Ericsson, you´ll have an outstanding opportunity. The chance to use your skills and imagination to push the boundaries of what´s possible. To build solutions never seen before to some of the world’s toughest problems. You´ll be challenged, but you won’t be alone. You´ll be joining a team of diverse innovators, all driven to go beyond the status quo to craft what comes next.
+
+What happens once you apply?
+
+Click Here to find all you need to know about what our typical hiring process looks like.
+
+Encouraging a diverse and inclusive organization is core to our values at Ericsson, that's why we champion it in everything we do. We truly believe that by collaborating with people with different experiences we drive innovation, which is essential for our future growth. We encourage people from all backgrounds to apply and realize their full potential as part of our Ericsson team. Ericsson is proud to be an Equal Opportunity Employer. learn more.
+
+Primary country and city: Germany (DE) || Rosenheim
+
+Req ID: 759577
+
+]]>

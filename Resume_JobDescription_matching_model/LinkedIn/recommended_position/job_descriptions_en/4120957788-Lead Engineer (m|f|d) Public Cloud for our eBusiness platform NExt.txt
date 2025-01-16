@@ -1,0 +1,28 @@
+
+https://www.linkedin.com/jobs/search/?currentJobId=4120957788
+
+Lead Engineer (m/f/d) Public Cloud for our eBusiness platform NExt
+
+
+
+Do you enjoy working independently on interesting, challenging tasks in the area of ​​B2B solutions and cloud computing? Do you have experience in the further development of modern eBusiness platforms with cloud technology and would you like to actively contribute this with our business units and agile teams? Then accompany us in the expansion and operation of the new eBusiness platform NExt.
+Work of particular value: your commitment to us
+As a lead engineer (m/f/d) of an agile interdisciplinary team, you will plan, coordinate and take over the development, integration, further development and testing of the Bundesbank's cloud services. Your focus will be on the implementation and configuration of the components and systems of our eBusiness platform NExt in the public cloud, consisting of standard and self-developed services, whereby you value the highest possible automation. You will also support other teams in migrating workloads into the eBusiness platform and play a key role in the operation of the services. For You coordinate the fulfillment of your tasks within the team and with other internal and external experts. To carry out your tasks, you increasingly rely on agile working methods and methods.
+Special values: your qualifications
+Bachelor's or equivalent degree in a subject area relevant to the position (e.g. computer science, software engineering) or comparable knowledge from many years of experienceVery good knowledge and many years of experience in IT engineeringVery good knowledge and several years of experience in planning and providing services in cloud Environments (e.g. with landing zones) Very good knowledge and several years of experience in the operation of IT infrastructure products. Good knowledge of ITIL processes as well as the integration of interfaces to IT infrastructure, applications, internal Management systems and external sourcesGood knowledge and experience with modern infrastructure and system deployment concepts (CI/CD environments), container platforms and different cloud modelsGood knowledge and experience in automating tasks (e.g. with the help of Terraform or Ansible). Knowledge and experience with a cloud service provider, preferably with Microsoft AzureKnowledge of agile methods in IT engineering (e.g. DevOps) and experience in agile development structuresExcellent ability to work in a team, high level of commitment and good work organization as well as good analytical and conceptual skillsVery good written and spoken German and good English skills
+Valuable work deserves special benefits
+Compensation & perspectives
+(depending on your experience, approx. €69,000 to €89,000), bonuses for special achievements, future-oriented job in the public service with reliable working conditions, permanent employment relationship, basic possibility of becoming a civil servant, possibility of continuing an existing civil service relationship (up to A 12), extensive further training options
+New Work
+Home office options within Germany, good technical equipment (e.g. smartphone, notebook), working hours: 39 hours/week, 30 days vacation, work-life balance
+Additional services
+Free Germany ticket as a job ticket, company health management, company daycare or childcare options, company restaurant
+We expect you to be willing to undergo a security check in accordance with the Federal Security Check Act (SÜG).
+Do you want to enrich our team?
+Then we are looking forward to your application. If you have any questions in advance, simply contact the responsible contact person.
+Your questions about the application
+Zeynep Görüken, 069 9566‑35728
+jobs@bundesbank.de
+Your questions about the area of ​​responsibility
+Rainer Böhme, 0341 860-1623
+Please apply by January 22, 2025 using the job ID 2024_1292_02 using our online tool.

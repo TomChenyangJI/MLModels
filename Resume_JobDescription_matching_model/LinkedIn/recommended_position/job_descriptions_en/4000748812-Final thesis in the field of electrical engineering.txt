@@ -1,0 +1,65 @@
+
+https://www.linkedin.com/jobs/search/?currentJobId=4000748812
+
+Final thesis in the field of electrical engineering
+
+
+
+THEORETICALLY THE BEST DECISION. PRACTICAL TOO.
+
+SHARE YOUR PASSION.
+
+Only highly professional processes in dynamic teams produce innovative, cutting-edge technology. But for us, the joy of driving, from development to production, is achieved above all with fun at work and enthusiasm for the joint project. That's why we not only give students the opportunity to listen, but also to have a say and think ahead.
+
+We, the BMW Group, offer you an exciting and varied thesis in the field of electrical engineering.
+
+Technical integration at BMW deals, among other things, with securing all E/E components in the on-board network. Various current measurements are part of the protection, including quiescent current, to ensure that a vehicle goes to sleep correctly and to avoid a deeply discharged battery. On the other hand, switch-on or operating currents are also important for analyzing the correct start-up behavior. In order to be able to record both the low quiescent currents and the high inrush currents very dynamically and with high resolution, a sophisticated structure is required. We are now looking for support for development!
+
+What awaits you?
+
+Extensive research into the status quo of measurement technology in the automotive industry for currents/voltages with high sampling rates. Requirements at BMW for current/voltage measurement and definition of the implementation of an in-house solution. Development of the final concept as a proof of concept in (partial) target configuration. Determination of an ADC technology.Designing the communication between ADCs and data loggers.Implementation for a certain scope.Outlook for further scopes (test automation in ECU test, etc.).
+
+
+Please note that you must ensure that your final thesis is supervised by a college/university.
+
+What are you bringing with you?
+
+Studies in electrical engineering or similar. Fluent in German (C2/mother tongue). Experience with circuit board design such as Altium. Experience with bus communication. Commercial skills in Excel, Powerpoint and Co. Own initiative and a certain drive.
+
+
+What do we offer you?
+
+Comprehensive mentoring & onboarding.Personal & professional development.Flexible working hours.Mobile work.Attractive remuneration.Apartments for students (subject to availability & only at the Munich location).And much more see bmw.jobs/waswirbieten.
+
+
+Are you enthusiastic about new technologies and an innovative environment? Apply now!
+
+At the BMW Group, we see diversity and inclusion in all its dimensions as a strength for our teams. Equal opportunities are particularly important to us, and the equal treatment of applicants and employees is a fundamental principle of our corporate policy. Our recruiting decisions are therefore based on your personality, experience and skills.
+
+More about diversity at the BMW Group at bmwgroup.jobs/diversity.
+
+Start date: from September 9th, 2024
+
+Duration: 6 months
+
+Working hours: full time
+
+Contact:
+
+BMW Group HR team
+
++49 89 382-17001
+
+Final thesis in the field of electrical engineering 
+
+Corporate division: BMW AG
+
+Location: Munich
+
+Working area: quality of the entire vehicle
+
+Job ID: 133428
+
+Release date: August 14, 2024
+
+Internship/thesis

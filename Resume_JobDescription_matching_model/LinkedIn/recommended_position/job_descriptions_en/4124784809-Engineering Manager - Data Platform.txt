@@ -1,0 +1,42 @@
+
+https://www.linkedin.com/jobs/search/?currentJobId=4124784809
+
+Engineering Manager - Data Platform
+
+
+
+Canonical is building a comprehensive suite of multi-cloud and on-premise data solutions for the enterprise. We want to make it easy to operate any database on any cloud, or on premise. The data platform team covers the full range of data stores and data technologies, spanning from big data, NoSQL, cache-layer capabilities, and analytics; all the way to structured SQL engines like Postgres and MySQL. We aim to deliver fault-tolerant mission-critical distributed systems, and the world's best data platform.
+
+We are looking for technical Engineering Managers to lead teams focused on Big Data and MySQL databases. We write code in Python and encode modern operational practices for data applications at scale on Kubernetes and cloud machines.
+
+Location: This role can be filled in European, Middle East, African or any American region / time zone.
+
+What your day will look like
+
+You will lead a team building scalable data solutions for Kubernetes and cloud machinesYou will hire, coach, mentor, provide feedback, and lead your team by exampleYou will demonstrate sound engineering skill by directly contributing code when neededEffectively set and manage expectations with other engineering teams, senior management, and external stakeholdersAdvocate modern, agile software development practicesDevelop and evangelize great engineering and organizational practicesEnsure that your team delivers excellent products that users love by maintaining a culture of quality and engineering excellenceGrow a healthy, collaborative engineering culture aligned with the company's values.Be an active part of the leadership team and collaborate with other leaders in the organizationWork from home with global travel twice yearly, for internal events of one or two weeks duration
+
+What we are looking for in you
+
+A software engineering background, preferably with Python and Golang experienceExperience running in production and at scale, preferably Big Data or MySQLExcellent judgement about people - their motivations, abilities, developmental needs, and prospects for successProven ability to build high-quality, open-source softwareProven to drive good engineering practices around performance and qualityAn open-minded attitude to new technologies and the drive to push the boundaries of what is possibleThe ambition to build products that improve how people operate software and infrastructure everywhereLove developing and growing people and have a track record of doing itKnowledgeable and passionate about software development
+
+Additional Skills That You Might Also Bring
+
+Specialist knowledge in one or more of Spark, Superset, MySQL, or similarPrior experience working with open source and a will to build products with the community
+
+What we offer you
+
+Your base pay will depend on various factors including your geographical location, level of experience, knowledge and skills. In addition to the benefits above, certain roles are also eligible for additional benefits and rewards including annual bonuses and sales incentives based on revenue or utilisation. Our compensation philosophy is to ensure equity right across our global workforce.
+
+In addition to a competitive base pay, we provide all team members with additional benefits, which reflect our values and ideals. Please note that additional benefits may apply depending on the work location and, for more information on these, please ask your Talent Partner.
+
+Fully remote working environment - we've been working remotely since 2004!Personal learning and development budget of 2,000USD per annumAnnual compensation reviewRecognition rewardsAnnual holiday leaveParental LeaveEmployee Assistance ProgrammeOpportunity to travel to new locations to meet colleagues at 'sprints'Priority Pass for travel and travel upgrades for long haul company events
+
+About Canonical
+
+Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.
+
+Canonical has been a remote-first company since its inception in 2004. Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.
+
+Canonical is an equal opportunity employer
+
+We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity we will give your application fair consideration.

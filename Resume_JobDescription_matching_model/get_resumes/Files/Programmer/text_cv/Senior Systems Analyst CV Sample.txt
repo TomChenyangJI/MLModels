@@ -1,0 +1,47 @@
+<#$%
+https://www.kickresume.com/en/help-center/senior-systems-analyst-resume-sample/
+#$%>
+
+Senior Systems Analyst CV Sample (Full Text Version)
+
+Olivia Newton MBA
+
+Address: 999, 99999, Indianapolis, US
+Date of birth: 1999-11-09
+Email address: hello@kickresume.com
+Phone number: 999-999-999
+Web: www.kickresume.com
+Profile
+Over seven years experience as an IT professionalExperience includes a diverse set of IT roles including helpdesk, system/business analysis, and programmingSkills include PL/SQL, Oracle 11g, HTML, CSS, User Acceptance Testing, System Integration Testing, End User Training, and SDLC
+
+Work experience
+
+07/2014 - present, Intermediate Programmer/Application Systems Analyst, State of Indiana, Indianapolis, United States
+
+Assist departments in resolving application specific issuesEvaluate the functioning of the applications and make recommendations for changeParticipate in testing connected with system upgrades and installment of new applicationsWork with senior analysts to create and maintain applications using Oracle Forms and Reports Provide end-user support and maintenance for all DOC applications Repair data errors within Oracle 10g/11g environments Create triggers and function/procedure bodies with PL/SQL Uphold application life cycle management procedures and execute with great detail Execute projects based around functional requirements and business rules of the logical design Work with vendor to create test plans and scenarios for end-users inspecting a java based application project
+
+12/2012 - 06/2014, Solution Support Specialist, Stonegate Mortgage Corporation, Indianapolis, United States
+
+Analytically managed the operation and daily functionality of Stonegate Mortgage systems and applicationsWorked with an offshore web development vendor along with the business analysts and database team on enhancing, fixing, and maintaining the company's websiteSupported over 4,000 local and remote employees with helpdesk troubleshootingTrained classes of recently hired employees monthly with presentation on IT standards and policiesManaged user accounts and security groups via Active Directory
+
+06/2011 - 11/2012, Systems Analyst, IU Health, Indianapolis, United States
+
+Monitored and managed system's day-to-day operations ensuring optimal system uptime Applied proper preventative maintenance to applications Provided oversight and follow up to scheduled and unscheduled vendor maintenanceProvided 24/7 client support Managed break/fix and enhancement requests for coding, abstracting, dictation, transcription, and document imaging applications Point of contact for equipment and software vendors, Information Services, and Revenue Cycle application clientsProvided responsive and prompt customer service to user and staff needs and requests
+
+Education
+
+05/2016 - 10/2018, Master of Business Administration, WGU Indiana, Indianapolis, United States
+
+IT Management: coursework in key areas including leadership, project management, IT strategic solutions, and financial management
+
+07/2006 - 05/2011, Computer Science, Central State University, Wilberforce, United States
+
+Achievements
+
+Google Developer Challenge Scholarship Recipient: 2018Sprite Step-Off Scholarship Recipient: 2011Dean's List: 2006-2007
+
+Hobbies
+
+Travelling
+Selfies
+Wearing sunglasses

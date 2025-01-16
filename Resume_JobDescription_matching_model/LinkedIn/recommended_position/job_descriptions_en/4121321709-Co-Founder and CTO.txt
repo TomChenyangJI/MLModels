@@ -1,0 +1,20 @@
+
+https://www.linkedin.com/jobs/search/?currentJobId=4121321709
+
+Co-Founder and CTO
+
+
+
+Join localfans GmbH: Be a Co-Founder and CTO in Building the Future of local Businesses!
+At localfans GmbH, we are building a SaaS solution for small, local businesses. Our platform enables local customers to subscribe to their favorite stores (restaurants, bars, barbershops, etc.), trade digital vouchers, and even pay for services—all in one place.
+Founded in 2023 in Germany by a German-Swiss founding team, we bring expertise in sales, business development, and finance. Our first MVP was built in collaboration with an external agency. After successfully testing the platform in the market, we are now seeking an exceptional programmer to join our team as a co-founder and CTO.
+We are looking for someone passionate about our mission ❤️‍🔥, ready to embark on an entrepreneurial journey 🚀, and experienced in SaaS/Fintech development. Ideally, you prioritize building maintainable, scalable, and modular architectures 🖥️. If you’re enthusiastic about digital products and B2B platforms, we’d love to chat with you!
+
+ResponsibilitiesPivot our Flutter-based MVP (browser app) into a stable app for iOS and Android—a hands-on development role.Lead the technological vision, strategy, and architecture of our platform, with a view to building and leading the tech department in the future.Design, develop, and deliver a robust, scalable, and efficient mobile and web application, integrating third-party APIs from partners such as Stripe and Meta/WhatsApp.Build and manage a technology team, identifying and nurturing top talent from scratch.Oversee and manage internal and external development resources.Define the technology strategy and architect scalable solutions.Develop backend and database systems to support product enhancements and scalability.Conduct design and code reviews.Align feature implementation with business and release objectives by delegating tasks effectively.
+Expertise DesiredProven experience in a (Senior) Software Engineering role in the SaaS or FinTech space.Several years of hands-on coding experience, with a portfolio of high-quality work (skills matter more than degrees or years of experience).Strong knowledge of technological trends and the ability to build a tech strategy for a FinTech organization.Understanding of financial markets and banking systems.Experience with fast-paced, design-forward, and product-focused companies.Strategic thinking and entrepreneurial growth mindset.Leadership and organizational skills, with the ability to build and manage teams.Problem-solving attitude and resilience in a startup environment.
+What We OfferThe chance to co-found and build a company from the ground up, improving the lives of millions of people. 🤝🏻Equity in a German company with €25,000 in initial capital. 💸A co-founder title and the opportunity to shape the company’s future. 🦄Remote working options. 💻
+What We Are NotThis is not a typical job.There is no salary or monetary compensation in the initial phase. We are looking for someone committed to the entrepreneurial journey, 🚀 willing to dedicate time and energy to solving a meaningful problem, and ready to weather challenges together.This role requires a long-term commitment—several years of dedication—to make a difference while having fun and embracing the ups and downs of startup life.
+
+Initially, the role will be part-time (10–20 hours per week, depending on your availability). It will become full-time in a few months, once we secure funding to support all co-founders' salaries. You’re not joining a team with a finished product. This is the early stage, and we need a driver, not a passenger—your ideas will shape the product and the company.
+If this sounds like you, let’s connect and discuss how we can build something incredible together!
+fans@localfans.io﻿

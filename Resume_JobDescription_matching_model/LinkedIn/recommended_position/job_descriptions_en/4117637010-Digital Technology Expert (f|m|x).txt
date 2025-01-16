@@ -1,0 +1,20 @@
+
+https://www.linkedin.com/jobs/search/?currentJobId=4117637010
+
+Digital Technology Expert (f/m/x)
+
+
+
+Your Role 
+
+Identify and analyze emerging trends and technologies in the field of Generative AI, providing insights and recommendations for strategic initiatives. Develop Proof of Concepts (PoCs) to assess the feasibility and viability of new Generative AI technologies, ensuring alignment with business objectives. Drive the development of innovative GenAI-based products, collaborating with cross-functional teams to bring concepts to fruition. Contribute to shaping the cross-ZEISS GenAI strategy, ensuring cohesive integration of AI technologies across various business units. Educate and mentor colleagues, fostering a culture of continuous learning and building internal expertise in Generative AI. Collaborate with stakeholders to understand customer needs and translate them into actionable AI solutions that address real-world challenges. Prepare and present complex technical information in an accessible manner to diverse audiences, facilitating informed decision-making.
+
+
+
+Your Profile 
+
+An excellent university degree (PhD is a plus) in natural sciences, mathematics, computer science, engineering, or a related field. A minimum of 5+ years of professional experience in data modeling, algorithm development, or data science roles. Proven ability to navigate technology hype, identify and prioritize transformative applications for our group, and execute their development within agile squads. Deep understanding of foundational and large language models, coupled with a vision and hands-on mindset to actualize ideas within ZEISS solutions. Track record of successful GenAI-based applications, demonstrating the ability to deliver impactful solutions that drive business value. Experience with best practices in model development and deployment, particularly using Azure Machine Learning Service and MLflow. Strong background in software development (Python, Git, MS Azure DevOps) and familiarity with agile methodologies. Experience with Industry 4.0 related development, demonstrating an understanding of its implications for business processes. Exceptional problem-solving skills, with the ability to comprehend customer needs and articulate complex technical concepts in operational contexts. Strong results orientation, along with strategic and conceptual thinking capabilities. Fluent in English, with advanced proficiency in German.
+
+Your ZEISS Recruiting Team:
+
+Markus Repp

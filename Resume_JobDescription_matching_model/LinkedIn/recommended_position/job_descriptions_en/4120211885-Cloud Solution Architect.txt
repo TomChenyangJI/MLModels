@@ -1,0 +1,37 @@
+
+https://www.linkedin.com/jobs/search/?currentJobId=4120211885
+
+Cloud Solution Architect
+
+
+
+As AI transforms our industry and creates new opportunities for modernizing the application estates of our customers, we want to expand our team of highly talented cloud solution architects.
+
+As a Cloud Solution Architect for Digital and Application Innovation, you play a key role in helping our customers migrate and modernize their application estates into the Azure cloud. You will act as a trusted advisor, leading consultative technical architecture and design sessions to define the foundation for operating resilient applications across various platforms in the cloud. You will be the technical lead for cloud migration projects, ensuring a resilient and modernized application estate that can be enriched with AI capabilities to enhance our customers' business outcomes.
+
+Microsoft’s mission is to empower every person and every organization on the planet to achieve more. As employees we come together with a growth mindset, innovate to empower others, and collaborate to realize our shared goals. Each day we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond.
+
+Responsibilities
+
+Customer Centricity
+
+Define and own the developer-focused technology adoption and its enablement at our customers through well architected technology strategy. That is, understand the customers’ overall business and IT objectives and define how Microsoft’s cloud native, DevOps, AI and low code capabilities support positive customer outcomes.Architect, deliver and lead by technical excellence to ensure that customers can leverage deep subject matter expertise across cloud native and Microsoft application innovation technological areas/stack.Ensure and rearchitect customer solutions that they exhibit in performance, security, scalability, maintainability and reliability upon deployment.
+
+Business Impact
+
+Contribute to revenue goals. Land customer-committed workloads in production and support solution deployments through customer-invested enablement packages. While ensuring that customers get the targeted value from their Microsoft investments.Drive customer/partner relationships to anticipate, identify, escalate, and work to resolve technical blockers to accelerate consumption and solution implementations.
+
+Technical Leadership
+
+Lead well-architected cloud migration and modernization programs at designated customers.Learn new technologies or services that are aligned to customer needs and common patterns seen in cloud native application development.Share ideas, insights, and strategic technical input with technical teams and internal communities. Participate in external technical community events (e.g., conferences, seminars, technical meetups, Webcasts, blogs, hackathons).Generate new ideas for changes and improvements to existing intellectual property (IP), technologies, and processes for designated customers/partners. Drive opportunities for IP reuse, best practice sharing, and consumption acceleration.
+
+Qualifications
+
+Required/Minimum Qualifications:
+
+Bachelor's Degree in Computer Science, Information Technology, Engineering, Business, or related field AND multiple years of experience in cloud/infrastructure technologies and software development/support/consulting and software migration/modernizationOR equivalent experience.
+Additional Qualifications
+
+Numerous experience working in a customer-facing role (internal and/or external).Numerous experience working on software projects (internal and/or external).Technical Certification in Cloud (e.g., Azure, Amazon Web Services, Google, security certifications).Microsoft or competitor equivalent (e.g., AWS) certification in relevant developer technologies.Proficient in at least one language, e.g. .NET, Java, Golang, Rust, JavaScript or Python with associated frameworks.Experience with developer tooling such as Visual Studio, VSCode, Azure DevOps and GitHub and/or competitive tools.
+
+Microsoft is an equal opportunity employer. Consistent with applicable law, all qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations.

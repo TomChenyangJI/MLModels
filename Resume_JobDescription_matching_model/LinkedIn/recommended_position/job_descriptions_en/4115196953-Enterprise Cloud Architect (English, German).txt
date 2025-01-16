@@ -1,0 +1,29 @@
+
+https://www.linkedin.com/jobs/search/?currentJobId=4115196953
+
+Enterprise Cloud Architect (English, German)
+
+
+
+Minimum qualifications:
+
+Experience in leading cloud transformations in enterprise financial services organizations.Experience creating designs across various cross-functional domains.Ability to communicate in English and German fluently to support client relationship management in this region.
+
+Preferred qualifications:
+
+Experience creating end-to-end solution architecture for various financial services workloads and considering the operational needs of a large organization.Experience leading diverse teams including engineers, architects, and technical consultants on cloud migration engagements.Experience creating technology strategy, capability roadmaps, and implementation approaches for large migration programs.Experience engaging product organization and influencing others to work on product features to drive the overall product strategy and roadmap.
+
+About The Job
+
+The Google Cloud Platform team helps customers transform and build what's next for their business — all with technology built in the cloud. Our products are engineered for security, reliability and scalability, running the full stack from infrastructure to applications to devices and hardware. Our teams are dedicated to helping our customers — developers, small and large businesses, educational institutions and government agencies — see the benefits of our technology come to life. As part of an entrepreneurial team in this rapidly growing business, you will play a key role in understanding the needs of our customers and help shape the future of businesses of all sizes use technology to connect with customers, employees and partners.
+
+The Enterprise Cloud Architecture team specifically focuses on delivering predictable business value with strategic architecture and technical blueprints, seamlessly delivering cloud, data, and AI solutions backed by industry experience and expert-led, trusted services.
+
+Google Cloud accelerates every organization’s ability to digitally transform its business and industry. We deliver enterprise-grade solutions that leverage Google’s cutting-edge technology, and tools that help developers build more sustainably. Customers in more than 200 countries and territories turn to Google Cloud as their trusted partner to enable growth and solve their most critical business problems.
+
+Responsibilities
+
+Drive the end-to-end cloud design and technical delivery across infrastructure, networking, operations, application migrations by providing technical direction and design thought leadership, thereby ensuring predictable technical outcomes for workload migrations to GCP considering the technical and delivery constraints.Engage with Chief Architects and act as a senior technical advisor to build confidence and organize overall IT strategy aligned to the broader business needs.Influence tactical and strategic decision making for a technology transformation journey.Drive industry centric accelerators/assets/pov to create broader impact across the industry in a specific domain or a technology area.Provide recommendations on the customer’s cloud architecture in ensuring the most optimal, resilient, secure, and cost efficient design along with adhering to Google's best practices guidelines.
+
+
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .

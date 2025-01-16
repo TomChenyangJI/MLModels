@@ -1,0 +1,63 @@
+
+https://www.linkedin.com/jobs/search/?currentJobId=4099936372
+
+Final thesis Implementation of digitalization measures/projects Cost Engineering
+
+
+
+NORMAL EMPLOYEES JUST AREN'T NORMAL ELSEWHERE.
+
+SHARE YOUR PASSION.
+
+Success is teamwork. Only when experts share their specialist knowledge and enthusiasm can a workflow be created in which ideas flow. We call this a culture of innovation. That's why we not only give students the opportunity to listen, but above all to have a say and think ahead.
+
+We, the BMW Group, offer an exciting and varied final thesis for the implementation of digitalization measures/projects in the area of ​​cost engineering.
+
+What awaits you?
+
+Your task is to use artificial intelligence to develop a tool that will help shape the future of cost analysis. You will develop an AI-supported tool for predicting material and manufacturing costs as well as optionally technical recommendations for materials and manufacturing processes. With your work you will answer two specific questions: How much does component X with the following properties cost? Optional: What are comparable materials and manufacturing processes? You will be guided by the proven CRISP-DM framework and sound scientific methods (e.g. Action Design Research). Your tasks include:Problem understanding: analysis from an economic, operational and technical perspective as well as identification of the associated success criteria.Data collection and preparation: collection, extraction, understanding and preparation of the relevant data.Modeling and evaluation: application of statistical methods, machine learning or other methods (e.g. LLM models) for modeling and evaluation. Subsequent evaluation and comparison of the models as well as validation of the use case. Development and implementation: Development of the tool as a standalone application or as a component of existing/future applications.
+
+
+Please note that you must ensure that your final thesis is supervised by a college/university.
+
+What are you bringing with you?
+
+Study of computer science, business informatics, engineering or a comparable course of study. Good programming knowledge in Python, C++ or comparable programming languages. Good knowledge of data analysis, artificial intelligence and machine learning. Experience in using BI tools (e.g. Power BI, Tableau) and Database management (e.g. SQL). Strong analytical thinking and the ability to understand and visualize complex relationships. Very good written and spoken German and English skills.
+
+
+Do you enjoy learning new things and actively supporting our department? Apply now!
+
+What do we offer you?
+
+Comprehensive mentoring & onboarding.Personal & professional development.Flexible working hours.Mobile work.Attractive remuneration.Apartments for students (subject to availability & only at the Munich location).And much more see bmw.jobs/waswirbieten.
+
+
+At the BMW Group, we see diversity and inclusion in all its dimensions as a strength for our teams. Equal opportunities are particularly important to us, and the equal treatment of applicants and employees is a fundamental principle of our corporate policy. Our recruiting decisions are therefore based on your personality, experience and skills.
+
+More about diversity at the BMW Group at bmwgroup.jobs/diversity.
+
+Start date: from January 15, 2025
+
+Duration: 6 months
+
+Working hours: full time
+
+Contact:
+
+BMW Group HR team
+
++49 89 382-17001
+
+Final thesis Implementation of digitalization measures/projects Cost Engineering 
+
+Corporate division: BMW AG
+
+Location: Munich
+
+Work area: Cost Engineering
+
+Job ID: 147900
+
+Release date: 12/13/2024
+
+Internship/thesis

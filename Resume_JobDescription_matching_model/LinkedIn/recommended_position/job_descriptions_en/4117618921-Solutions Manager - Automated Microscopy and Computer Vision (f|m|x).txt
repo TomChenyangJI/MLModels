@@ -1,0 +1,32 @@
+
+https://www.linkedin.com/jobs/search/?currentJobId=4117618921
+
+Solutions Manager - Automated Microscopy and Computer Vision (f/m/x)
+
+
+
+ZEISS Research Microscopy Solutions is the leading provider of light, electron, X-ray microscope systems, correlative microscopy and software solutions leveraging AI technologies. The portfolio comprises of products and services for life sciences, materials and industrial research, as well as education and clinical routine applications.
+
+
+
+Your Role
+
+
+
+The position as Solutions Manager - Automated Microscopy and Computer Vision is part of the field of Business Software of ZEISS Research Microscopy Solutions. In this role you will build customized software solutions for ZEISS customers that need support for special light microscopy applications. Typically, these solutions encompass a completely automated light microscopy workflow from image acquisition to the AI-based image analysis. The primary focus will be on the software implementation but in close connection with the hardware control and applicational background. You will work closely with our customers and help solve their challenges. 
+
+Additionally, you will collaborate with partner companies from ZEISS as well as other ZEISS departments in order to provide optimal solutions to our customers. Applications usually come from quality labs in the pharma, manufacturing or electronics industry, although, use cases may arise from any business sector. 
+
+
+
+Your profile 
+
+Degree in physics, computer science, bio/material/nano science or similar Good organizational talent to deal with multiple projects Strong IT and programming affinity Proficiency with Python and the scientific ecosystem (e.g., numpy, matplotlib, pandas) Fun interacting with customers and solving their challenges Deep curiosity and willingness to dive into new subject areas Ability to work in an independent, goal- and output-oriented mannerFluent English or German 
+
+The following will be considered as a plus
+
+Expertise in the practical usage of light microscopes Knowledge in either material science or electronics Knowledge in computer vision technologies Experience in machine learning / deep learning techniques
+
+Your ZEISS Recruiting Team:
+
+Sabrina Rieker

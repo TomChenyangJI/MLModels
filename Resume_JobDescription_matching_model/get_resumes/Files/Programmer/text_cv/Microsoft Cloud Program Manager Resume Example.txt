@@ -1,0 +1,54 @@
+<#$%
+https://www.kickresume.com/en/help-center/microsoft-cloud-program-manager-resume-sample/
+#$%>
+
+Microsoft Cloud Program Manager Resume Example (Full Text Version)
+
+Paul Ryan
+
+Address: Toronto, Canada
+Email address: contact hidden
+Phone number: contact hidden
+Web: www.kickresume.com
+Profile Summary
+In my current role, I am a Cloud Solutions Architect with multiple years of IT infrastructure experience. I work with large enterprise clients on designing solutions which leverage their data and turn it into intelligent solutions.I have been featured on Microsoft’s Wall of experts and have been a speaker at multiple Microsoft’s technical conferences internationally.
+
+Skills
+
+Work experience
+
+06/2013 - present, Cloud Solutions Architect, Microsoft Canada, Toronto, Canada
+
+In my current role, I am a member of Microsoft’s Cloud Solutions Architect team where I architect and deploy enterprise solutions based on Microsoft Azure. I also work closely with Microsoft sales team providing technical pre-sales assistance on potential opportunities that can leverage Microsoft Azure Suite.Major responsibilities in my current role include working with enterprise clients developing solutions around – 1. Information management, Big data stores, Machine Learning, Analytics and Cognitive services.2. Datacenter Transformation (VM deployments, Networking, ExpressRoute).3. Security, Compliance, and Privacy (Identity, Governance, RBAC).
+
+06/2012 - 06/2013, Cloud Program Manager, Microsoft US, Redmond, USA
+
+I lead the WW Cloud business for Microsoft Global Delivery with an end to end business responsibility and was responsible for Office 365 migration business for the North American region for Microsoft Global Delivery with growth and delivery targets.I have managed a team of 20+ consultants with CSAT targets and had successfully lead responses of large RFPs.Following were the major responsibilities that I had when in role -1. Run the Infra and Cloud computing business for Microsoft Global Delivery starting from business plan, customer acquisition strategy, go to market plan, presales and delivery.2. Successfully lead responses of multi-million-dollar RFP responses and winning business.3. Conceived and implemented Industrialized Services model for cloud computing and infra services. 4. Conceptualized and operationalized a unique rate card based pricing model used my Microsoft globally for selling migration services.5. Responsible for heading Cloud migration factory which migrated more than 1 Million mailboxes to the cloud.6. Successful in delivering more than 30 projects with 100% CSAT.
+
+06/2010 - 06/2012, Technical Evangelist, Microsoft Global Delivery, India / Japan
+
+Spearheaded the cloud IaaS business for Microsoft Global Services and was responsible for driving the cloud strategy. As a Microsoft World Wide cloud deployment team member, I was responsible for working with the Microsoft business leaders to formulate Microsoft's worldwide Services strategy for IaaS.Key goals that I had in role were -1. Achieve assigned revenue and usage/consumption Office 365 targets across the APAC territory.2. Build a foundation for long-term cloud revenue.3. Ensure successful cloud adoptions and migrations to Office 365.4. Improve customer satisfaction with enterprise clients and own key customer executive-level relationships in assigned territory.5. Working with Office 365 sales teams to close opportunities.
+
+02/2007 - 05/2010, Infrastructure Consultant, IBM, India
+
+At IBM, I lead the team of engineers to consolidate and migrate the infrastructure environment of Vodafone Telecom. This project included migration to the latest version of the exchange, migration of user’s mailboxes, up-gradation of Active Directory and migration of user desktops to the latest version.
+
+06/2004 - 01/2007, Product Manager, Avaya, India
+
+At Avaya, I was a product manager for "Modular Messaging" product offered by Avaya for integration of Voicemail with Microsoft Exchange environment. I acted as a bridge between the development and support teams assisting with product life-cycle and support and was responsible for the entire product. Over the years the product has now been rebranded as 'Avaya Aura Messaging'.
+
+Education
+
+06/2015 - 06/2016, Executive Education, INSEAD
+
+Business Strategy and Financial AcumenBusiness Model Innovation
+
+06/2000 - 06/2004, B.Tech. Computer Science, Kurukshetra University
+
+Certifications
+
+03/2016, Office 365 Solutions Architect, Microsoft
+
+06/2015, Azure Solutions Architect, Microsoft
+
+06/2012, ITIL, ITSM

@@ -1,0 +1,90 @@
+<#$%
+https://www.kickresume.com/en/help-center/software-developer-swedish-systemutvecklare-resume-sample/
+#$%>
+
+Software Developer [swedish] Systemutvecklare (Full Text Version)
+
+David Alexandersson
+
+Adress: Barbro hörbergs  678, Göteborg, 999 49
+Födelsedatum: 1983-11-01
+Epost: hello@kickresume.com
+Mobil: 0720042842
+Presentation
+Erfaren utvecklare med lång och bred erfarenhet av Drupalutveckling med stort intresse för andra plattformar, programmeringsspråk och teknologier. Brinner särskilt mycket för sökbarhet, sökplattformar, optimeringar och skalbarhet. Webbutveckling:​ PHP (Drupal sedan 2004), Javascript (NodeJS/EmberJS), Ruby (Ruby on Rails), Python, Perl (Koha).Prestanda:​ Erfarenhet av att bygga lösningar med höga krav på prestanda och skalbarhet. Sajtspecifika och generella optimeringar med hjälp av Varnish Cache.Drift och administration i linuxmiljö:​ Bland annat konfiguration och optimering av Nginx, PHP­-FPM, Redis, Apache Solr och Varnish.Datamigreringar:​ Tex. Drupal till Drupal, SQL till Drupal, flatfile till Drupal.Integrationer: ​Integrationer med tredjepartsapplikationer så som videostreamingtjänster, mäklarsystem, affärssystem, webbtjänster med mera.
+
+Arbetslivserfarenhet
+
+03/2009 - 08/2015, Systemutvecklare, Xelera Communication AB, Göteborg
+
+Webbutveckling i Drupal, systemadministration i Linuxmiljö, databasadminstration, migration, integration, driftsättning, optimering och kundsupport. Agilt arbetssätt enligt scrum­metodik.
+
+03/2008 - 12/2008, Systemutvecklare, Härryda Energi AB, Mölnlycke
+
+Praktik, utveckling av intranät byggt i Drupal. Integration med Hogia Affärssystem.
+
+08/2015 - present, Systemutvecklare, Göteborgs Universitetsbibliotek
+
+Bland annat utveckling av Universitetets nya webbplats i PHP (ramverk/CMS Drupal), publikationsdatabasenen GUP i Ruby (ramverk Ruby on Rails) och  Javascript EmberJS och anpassning av och utveckling i bibliotekssystemet Koha.
+
+Fritidsintressen
+
+Eskapism
+Musik
+Kaffe
+Odling
+Rekreationell programmering
+
+Färdigheter
+
+Språk
+Engelska
+Tyska
+
+Programmeringsspråk
+Javascript
+PHP
+SQL (Mysql, SQL Server, PostgreSQL)
+Ruby
+Python
+Perl
+XSLT
+C
+Erlang
+Elixir
+Haskell
+
+Ramverk
+Drupal
+jQuery
+EmberJS
+Koha
+Ruby on Rails
+NodeJS
+Express (NodeJS)
+Connect (NodeJS)
+Flatiron (NodeJS)
+
+Programvaror
+Varnish HTTP Cache
+Vagrant
+Apache Solr
+Apache
+Git
+Nginx
+Tomcat
+Virtualbox
+Elasticsearch
+
+Metodiker
+Scrum
+
+Utbildning
+
+08/2004 - 01/2015, Bioteknik, Chalmers tekniska högskola
+
+2005 - 2007, Datavetenskap, Göteborgs Universitet
+
+Öppen källkod-bidrag
+
+Drupal: https://www.drupal.org/u/....Github: https://github.com/....

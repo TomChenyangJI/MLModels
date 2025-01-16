@@ -1,0 +1,30 @@
+
+https://www.linkedin.com/jobs/search/?currentJobId=4122907656
+
+Software Architect (f/m/x)
+
+
+
+Your Role
+
+
+
+As a software architect you will play a pivotal role in shaping the future of our software solutions. You will be responsible for designing and implementing scalable, secure, and high-performance architectures that leverage cutting-edge cloud technologies. Your primary responsibilities will include:
+
+Develop, maintain and ensure implementation of the architectural designs and concepts, with close alignment with business goals and technical requirementsLead the adoption of cloud best practices and technologies, including microservices, containerization (Docker, Kubernetes), and serverless architecturesWork closely with cross-functional teams, including product management, development, and operations, to ensure seamless integration and deployment of solutionsConduct technical evaluations and proof of concepts, implement architecturally relevant features and infrastructures as necessary, review designs and implementations and assist in developing testing strategiesCreate and maintain comprehensive, but optimal documentation of architectural designs, processes, decisions and best practicesStay up to date with the latest technology trends and advancements in cloud computing, software architecture, and related fields, share insights with the team to foster innovation and continuous improvement
+
+
+
+Your Profile
+
+
+
+We are looking for a highly skilled Software Architect with a strong background in cloud technologies and a passion for building innovative solutions. The ideal candidate will possess the following qualifications:
+
+Bachelor’s or master’s degree in computer science, software engineering, or a related fieldLongtime experience in software development, with at least 3 years in an architectural role with strong focus on cloud technologiesExpertise in .NET and web development, along with software development methodologies (Agile, DevOps)Proficiency in Azure cloud platform, with experience in deploying and managing applications in Azure, other platforms such as AWS or Google Cloud are a plus, strong understanding of container orchestrationStrong analytical and problem-solving skills, with the ability to think critically and make and communicate sound architectural decisionsExcellent verbal and written communication skills in English (German is a plus) and teamwork mentality, with the ability to articulate complex technical concepts to non-technical stakeholders
+
+If you are passionate about technology and eager to make an impact, we encourage you to apply. Join a dynamic team that values innovation and creativity!
+
+Your ZEISS Recruiting Team:
+
+Sabrina Rieker

@@ -1,0 +1,81 @@
+<#$%
+https://www.kickresume.com/en/help-center/senior-web-developer-resume-sample/
+#$%>
+
+Senior Web Developer Resume Sample (Full Text Version)
+
+Oliver Kriška
+
+Date of birth: 1989-03-02
+Phone number: contact hidden
+
+Work experience
+
+12/2013 - present, CTO, BeeSafe, Žilina, Slovakia
+
+Created core of the productLeft project and became AdvisorReturned to project as CTO
+
+09/2014 - 02/2017, Head of development, Techvox Inc., San Francisco - remote, USA
+
+Built complex Ruby On Rails app with 3 Public APIs, 3 Front-endsDecreased daily production issuesAchieved from developer to head of developmentManaged international teamEstablished project management system of daily tasksImproved slow API responsesResponsible for acquired security license from QuickBooks Online by intuit.comImplement new technologies (Sidekiq, Redis, Caching, ElasticSearch, Pusher, ...) and techniques for boosting system
+
+12/2013 - 09/2014, Freelancer, Freelancer, Prievidza, Slovakia
+
+Created several Ruby On Rails websitesDeveloped complete system for importing database of >1 million videos and created web portal based on Ruby On RailsImproved loading and system resources for video portal (Ruby On Rails and system infrastructure with Elasticsearch)
+
+09/2011 - 12/2013, Developer, Citicom, Prievidza, Slovakia
+
+Created internal system for intelligent tracking and converting hours into billable invoices based on Ruby On RailsModernized clients' websites using Ruby On Rails
+
+Education
+
+09/2008 - 06/2011, Software Engineering, University of Žilina, Slovakia
+
+Bachelor of Software Engineering
+
+09/2004 - 06/2008, Accounting, Business Academy Prievidza, Slovakia
+
+Other
+
+Volunteer
+
+5 RailsGirls events and one as a lead mentor and organizer2 Startup WeekendsVarious educational events for young entrepreneurs
+
+2009 - present, Co-founder, Kadetade.com
+
+Co-founded oldest and at the same time biggest travel portal in Slovakia
+
+2013 - 2016, Sport competitions
+
+Attended 4 Crossfit competitionsParticipated as judge on 2 Crossfit competitionsAttended Slovak Championship in amateur WeightliftingAttended 4 Spartan Race runs
+
+Awards
+
+10/2013, Startup Weekend Žilina
+Won 1st prize at 54-hour hackathon with system for increasing women safety via mobile app
+
+Hobbies
+
+Traveling
+Reading books
+Listening Audiobooks
+Crossfit
+
+Skills
+
+Languages
+English
+Slovak
+Czech
+
+Programming Languages & Technologies
+Ruby
+Ruby on Rails
+SASS
+AngularJS
+PostgreSQL
+Sidekiq
+Redis
+Rubymine
+Ubuntu
+Heroku

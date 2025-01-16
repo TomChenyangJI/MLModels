@@ -1,0 +1,104 @@
+
+https://www.linkedin.com/jobs/search/?currentJobId=4114788855
+
+Consumption Lead, Data Cloud
+
+
+
+To get the best candidate experience, please consider applying for a maximum of 3 roles within 12 months to ensure you are not duplicating efforts.
+
+Job Category
+
+Sales
+
+Job Details
+
+About Salesforce
+
+We’re Salesforce, the Customer Company, inspiring the future of business with AI+ Data +CRM. Leading with our core values, we help companies across every industry blaze new trails and connect with customers in a whole new way. And, we empower you to be a Trailblazer, too — driving your performance and career growth, charting new paths, and improving the state of the world. If you believe in business as the greatest platform for change and in companies doing well and doing good – you’ve come to the right place.
+
+Delivering customer success with Data + AI + CRM + Trust is the unique value proposition for Salesforce and the Customer 360 Platform. The Consumption Lead demonstrates deep business, industry, and product knowledge to partner with customers, guiding them to accelerate Data Cloud consumption and return on investment with Salesforce.
+
+This role combines technical and commercial responsibilities. You will drive growth in your assigned customers and use cases by leading partners, handling executive relationships, and creacrafting implementing consumption plans. Additionally, you will act as the post-sale technical lead for Data Cloud, using your expertise and technical credibility to engage and communicate efficiently at all levels within an organization. You will be responsible for developing and implementing technology strategies and providing architectural mentorship to ensure Data Cloud integrates seamlessly with customers’ existing systems.
+
+You will build and champion positive relationships to help customers progress on their Data Cloud consumption journey, ensuring the platform delivers value. The Consumption Lead, Data Cloud, works directly with customers that can vary in their market segment, size, solution complexity, and life cycle, all depending on the customer’s needs.
+
+You are a constant learner. You are curious, insightful and have a strong bias for action. This is an IC (individual contributor) role.
+
+Your Impact 
+
+As a trusted advisor you will optimally influence customer outcomes and accelerate Data Cloud consumption. You will:Work across multiple selling teams and internal collaborators, creating transparency from chaos.Drive onboarding, enablement, success, launch, and healthy consumption of Data Cloud workloads.Leverage account teams, services, customer success, education, and support resources to build and lead tasks beyond your scope of activities or expertise.Create, own, and complete a point-of-view on how key use cases can be accelerated into production.Navigate Data Cloud Product and Engineering teams for new product innovations, pilot programs, and upgrade needs.Provide internal and external updates on KPIs related to usage and customer health, covering important risks, product adoption, and use case progression.Develop mutual success plans with customers.Help ensure customer success by increasing focus and technical accountability to our most complex customers who need guidance to accelerate usage on Data Cloud workloads.
+
+Primary Responsibilities
+
+Develop an understanding and knowledge of customer’s Salesforce Data Cloud implementation and evangelize the capabilities of Data Cloud.Engage with strategic customers to understand their goals, assess their capabilities, and provide recommendations to help them accelerate consumption to achieve their business and technology objectives.Have a passion for operational quality that drives scalable consumption, ACV growth, and customer success.Skilled at guiding impactful discovery conversations to unveil nuanced client needs and identify creative solutions through customization.Guide a customer on org strategy, governance, and change management standard processes based on customer needs.Demonstrate hands-on Data Cloud product knowledge by applying platform features and functions to customer business priorities and roadmap.Proactively identify risks to the customer achieving their stated business goals and work with the account team to build a risk mitigation plan.Produce and implement a comprehensive adoption path showing the current state, target future state with timeline, and an underlying enablement Plan.Deliver value and innovation to a customer’s business by understanding our customers’ key business challenges and potential for growth.Build and nurture executive-level relationships with the customer’s IT and business executive leadership, sponsors, and decision makers to solidify our partnership and dedication to the customer business and IT sponsors & collaborator.Working with the account team and Salesforce Execs, efficiently network within accounts from the Executive-Level down, in order to help customers work towards their goals.When appropriate, recommend additional Salesforce services and advisory guides needed to drive success.Proactively communicate technical product changes, degradations, outages, end of life, and other relevant updates.Collaborate with Salesforce product teams to deeply understand Salesforce solutions and roadmap, and advocate for key features needed for success across the Industry/Territory via Voice of the Customer feedback.Collaborate with our sales and field engineering teams to accelerate the adoption and growth of the Salesforce Data Cloud platform in your accounts.
+
+Your Confirmed Impact Includes
+
+Experience in customer-facing solutioning for Data, Analytics, AI, and CRM.
+
+Technical Expertise: Full-stack technical qualifications (CRM, Data Architecture, AI/ML) and experience running technical relationships with C-Level executives.
+
+Communication Skills
+
+Ability to drive effective conversations at the C-level, facilitate difficult discussions, and handle objections adeptly.
+
+Trusted Advisor
+
+Shown success as a trusted advisor, understanding customer motivations and needs to drive business value, and experience integrating sophisticated data architectures.
+
+Customer Success
+
+Experience driving customer success in large, complex selling organizations.
+
+Industry Knowledge
+
+Deep understanding of industry-specific use cases, data architectures, and integration patterns.
+
+Influence And Leadership
+
+Persuasive verbal, written, presentation, and interpersonal communication skills that inspire change in large organizations.
+
+Technological Awareness
+
+Staying up-to-date with emerging marketing, data-related, and AI technologies.
+
+Proactive Attitude: A self-starting demeanor with the ability to handle tasks independently while collaborating remotely with customers and colleagues.
+
+Data Ethics And Privacy
+
+Dedication to data ethics and privacy, ensuring customer solutions adhere to relevant regulations and standard processes in data security and privacy.
+
+Product Development
+
+Hands-on experience building 0-1 products at startups or large companies.
+
+Facilitation Skills
+
+Excellent work-shopping and whiteboarding skills.
+
+Degree or equivalent relevant experience required. Experience will be evaluated based on the Values & Behaviors for the role (e.g. extracurricular leadership roles, military experience, volunteer roles, work experience, etc.).
+
+As a deep subject matter authority, you will have a rare set of technical proficiencies, including:
+
+Salesforce Smart
+
+Deep, technical knowledge of the Salesforce platform (Salesforce Admin and Sophisticated Admin level certifications, hands-on experience with Salesforce Clouds). Deep understanding of Martech Stack with hands on experience with Salesforce Marketing Cloud or similar products.
+
+Data Architecture & Tools
+
+Modern cloud data platforms (Snowflake, Databricks, Big Query, RedShift), data analytics tools (Tableau, Looker, Power BI), data programming models (DataFrames, pandas), and AI (Python, R, Jupyter Notebooks, data wrangling, machine learning).
+
+Accommodations
+
+If you require assistance due to a disability applying for open positions please submit a request via this Accommodations Request Form.
+
+We warmly invite applications from individuals with a severe disability status (Schwerbehinderung). Salesforce is committed to equality and creating a workplace that reflects society. We set ambitious goals for representation, emphasize accessibility and inclusion, and continuously learn and improve. Learn more about our inclusion initiatives here (https://www.salesforce.com/company/accessibility/workplace-resources/#ally-sf-benefits). In 2019, Salesforce joined The Valuable 500 to champion disability inclusion in business leadership.
+
+Posting Statement
+
+At Salesforce we believe that the business of business is to improve the state of our world. Each of us has a responsibility to drive Equality in our communities and workplaces. We are committed to creating a workforce that reflects society through inclusive programs and initiatives such as equal pay, employee resource groups, inclusive benefits, and more. Learn more about Equality at www.equality.com and explore our company benefits at www.salesforcebenefits.com.
+
+Salesforce is an Equal Employment Opportunity and Affirmative Action Employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, or disability status. Salesforce does not accept unsolicited headhunter and agency resumes. Salesforce will not pay any third-party agency or company that does not have a signed agreement with Salesforce.
+
+﻿Salesforce welcomes all.

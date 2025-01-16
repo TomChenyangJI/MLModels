@@ -1,0 +1,54 @@
+
+https://www.linkedin.com/jobs/search/?currentJobId=4125081449
+
+(Intern) Data Automation
+
+
+
+Your impact
+
+As part of the Solution Engineering team, you will help Tacto to deliver the best possible customer value and drive our business forward. You will understand our customers' data-related problems and issues and implement solutions in collaboration with an interdisciplinary team.
+
+Your tasks
+
+Identification of relevant data sets and integration of the data into a stable data pipelineSupport in the technical onboarding process to create value for our customers as quickly as possibleCollaborate with our software development and product teams to integrate learnings and insights into our product offeringsWrite and review clean, well-documented Python code to continuously improve the codebaseUtilise BI and low-code tools to make the team more efficient and automate manual processesProactively communicate and document progress, results and challenges
+
+Your profile
+
+Now you may wonder what frameworks, tools, and languages you need to master. We believe that problem solving, creativity, and drive are more important than tools that can be picked up. However, the following references will give a guideline of what experiences we think might be helpful:
+
+You enjoy getting to know customers, understanding their needs and working with an interdisciplinary team to deliver resultsYou have experience in programming with PythonYou are familiar with importing, cleansing, validating, transforming and exploring data in data ingestion pipelines using tools such as Dagster, Airflow, Prefect, Great Expectations, dbt and more or similarYou have worked with BI tools such as PowerBI, Tableau, Looker or MetabaseYou have strong communication skills in both German and English
+
+Our Tech Stack
+
+Backend: Python, FastAPI, SQL Alchemy, Alembic, Pydantic, Pytest, …Frontend: TypeScript, NextJS, Zustand, Material UI, React Hook Form, …DB: PostgreSQLData: Python, Prefect, Pandas, …Cloud: AzureOther: GitHub, GitHub Actions, Dependabot, Pre-commit, Mozilla SOPS, …
+
+It is not expected to be completely familiar with each and every aspect of our tech stack.
+
+Other technologies that we enjoy discussing and encourage in the team:
+
+Backend: Golang, RustFrontend: Vue / Nuxt, Svelte / Svelte Kit, Tailwind, Bun, tRPC, …Linux: Nix, Arch, Ubuntu, i3, …Other: LLMs, LMMs, NeoVim Configs, …
+
+About Us
+
+🏭 What we do
+
+We are Tacto, a Munich-based startup with a mission to build digital, efficient, and sustainable supply chains. The European economic backbone, 90 thousand mid-sized industrial companies known as the ‘Mittelstand’, faces significant threats from supply chain disruptions and bureaucracy. Tacto is the answer: An operating system for future-proof supply chains designed for mid-sized industrial organizations. Our AI-based software streamlines all procurement workflows, effortlessly ensures compliant and sustainable supply chains, and enables efficient material sourcing with optimal conditions.
+
+⭐ Why it matters
+
+Mid-cap industrials are the backbone of our economy manufacturing every physical good that surrounds us - from board games to medical ventilators to tunnel drilling machines. Supply chain disruptions and bureaucracy threaten the foundation of their business. Our mission is to support them by:
+
+🏭 Powering the industry that builds the world: We lift Europe’s economic backbone to the next era by simplifying the ever-increasing complexity in industrial supply chains👩🏼‍🏭 Enabling supplier collaboration: We enable powerful collaboration among supplier networks with over €3tn in procurement volume to keep the production running🌳 Saving resources in supply chains: We optimise the 50-80% of costs and emissions of physical products originating from suppliers to enhance sustainable growth
+
+🚀 Why you should join us
+
+Timing: Our product manages hundreds of millions of euros of material to manufacture physical products from bread slicers to medical devices. The industrial middle class trusts us and we are ready to grow! Shape the future of our company and our product with us!Top investors believe in us: We are backed by first-class investors such as Sequoia Capital, Index Ventures, Cherry Ventures, Visionaries Club, UVC Partners as well as the founders of Personio, GetYourGuide, Helsing & Forto. Join us and show them that they made a good decision!The team: We are an interdisciplinary and international team that is highly ambitious to scale Tacto but also likes to have fun. Work with us to develop both personally and professionally!Impact: We are reshaping industrial procurement, which is the biggest value driver in the industry. There is no physical product in the world in which procurement is not significantly involved. Join us in shaping the future of the most important economic sector in Germany with over 10 million employees. 
+
+🤝 What We Offer
+
+Apart from the people, our culture and mission, we offer you a job with above-average pay and a lot of personal responsibility. It is important for us to create an environment in which you can grow professionally and personally:
+
+Your holiday: 28 + 2 paid days of vacation per yearYour office: We live an office culture and all our employees like to come to our beautiful office in the Sandstraße in Munich, but you can also work from home at times (our guideline is 3-4 days office & 1-2 days home office)Your setup: Choose your favorite equipment and working environment. Whether Mac/Windows/Linux suits you, we want you to feel comfortable. Your team: We grow and have fun together at team lunches, coffee dates, chess games, hiking trips, and a lot moreYour safe space: We are convinced that a workplace where different and diverse perspectives and ideas are brought in is very valuableYour health: We have company health insurance, offer you an EGYM Wellpass membership & Jobrad
+
+Tacto is an equal opportunities employer. We are committed to equal employment opportunity regardless of race, religion, sexual orientation, age, marital status, disability or gender identity. Please do not submit personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, data concerning your health, or data concerning your sexual orientation.

@@ -1,0 +1,64 @@
+<#$%
+https://www.kickresume.com/en/help-center/software-engineer-enel-x-resume-sample/
+#$%>
+
+Software Engineer at Enel X Resume Template (Full Text Version)
+
+Marco Rodriguez
+
+Email address: hello@kickresume.com
+Phone number: 555-555-5555
+Profile
+Change being the only constant in this world, I learned how to adapt to changes, find opportunities in it and drive teams to embrace the change and make the most out of it. With 15+ years of experience spent as an individual contributor in small and large development teams, in tech and team leadership roles, and now as a Senior Software Engineer, I've become experienced with taking initiative/ownership of tasks and projects, communicating with stakeholders, estimating efforts and planning, proposing software architectures, technologies, and development platforms and tools.
+
+Work experience
+
+12/2010 - present, Senior software engineer, Sogei, Roma, Italy
+
+I started at Sogei in 2010 as a Experienced Software Engineer hire, in the years following I worked in major deliveries of Tax Agency.Managed small Development team (3 years)Developed new architecture based on Microservices, java, python, docker and Kubernetes﻿Performed reverse engineering of legacy codeManaged the adoption of Event Driven ArchitectureMigrated several app to the CloudPerformed requirements analysis, design, development of React  and Angular Single Page ApplicationManaged the adoption of NoSql database (MongoDB)Estimated, performed feasibility analysis and forecast risks and planned the delivery for new requirementsContributed to each project delivery phase (analysis,development,test,ops) in different rolesDelivered new features in both Agile and WaterfallImplementing the adoption of CI/CD, Automated build on AzureDeveloping Single Page Application with React (Class-Based Component and Functional Component), typescript, using mobx and redux as state manager.
+
+05/2008 - 12/2010, Software Architect, ACI Informatica, Rome, Italy
+
+I started here working as a consultant. I led a small team of 3 developers on both front-end and back-end technology. My responsibility was:Gathering the requirements from the client and translate them into project Goal.Documenting every requirement.Prioritizing the product features.Being an active part of the development phaseMentor other developers.Technology used:	Oracle, Spring MVC, PL/SQL, websphere, java, jsp.
+
+Software developer, Accenture, Rome, Italy
+
+Here I started my internship but I was hired after two months.My work was focused on the development of a video streaming platform known as "Alice Home Tv" which now evolved into "Infinity", a "Netfilx" alike service.Analysis and Development of java applications on the j2ee platform to allow customer care to enable content vision, modify plan and subscription.Decoder’s user-interface development focus to enhance the user experience halving the boot time of the device. Used Technology List:java, j2ee , C, C++, Javascritp, pl/sql, Tomcat, Resin, visual source safe
+
+Education
+
+09/2001 - 05/2005, Software Engineering, Roma Tre, Roma, Italy
+
+Skills
+
+Development Skills
+Python
+Java
+JavaScript
+kubernates
+docker
+nodejs
+Rest Services
+PLSQL
+Spring - Spring Boot
+React
+Oracle
+MongoDB
+DB2
+Redis
+JSON
+YAML
+
+Languages
+Italina
+English
+
+Achievements
+
+Worked on the project to reduce by 40% the load on the Government's Citizen Web services lookup introducing Event-Driven Architecture and notifying information based on Topic and Public/Subscribe modalityDefined and Implemented the company's first Public Api following Interoperability solutions for public administrations, businesses and citizens (ISA, dal 2016 ISA²) in order to validate billions of invoices generated all over the country. Using scalable architectureLed a team of up-to 4 developers
+
+Hobbies
+
+Travelling
+Classic Guitar
+Experiment Everything

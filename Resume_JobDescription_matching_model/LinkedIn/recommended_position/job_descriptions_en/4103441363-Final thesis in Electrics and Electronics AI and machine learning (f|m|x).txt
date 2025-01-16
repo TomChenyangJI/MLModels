@@ -1,0 +1,63 @@
+
+https://www.linkedin.com/jobs/search/?currentJobId=4103441363
+
+Final thesis in Electrics and Electronics AI and machine learning (f/m/x)
+
+
+
+THE FUTURE OF MOBILITY? DIGITAL.
+
+SHARE YOUR PASSION.
+
+More than 90% of all innovations in automobiles are based on electronics and software. This is where great freedom and networked thinking are required in order to reinvent mobility and enable a completely new driving experience. That's why we not only give students the opportunity to listen, but also to have a say and think ahead.
+
+We, the BMW Group, offer you an exciting and varied thesis in the field of AI and machine learning. In system and tool development for E/E analysis in the global production network, we develop future-proof solutions and thus make an important contribution to ensuring stable production and high product quality. Your final thesis deals with the development and evaluation of various AI methods to evaluate vehicle data (recorded bus communication, error memory entries, vehicle states). The focus is on recognizing error patterns in the signal curve. The aim of the work is to increase efficiency and quality in insurance. This should be illuminated by a proof of concept within the work.
+
+What awaits you?
+
+Development of use cases and business cases in the area of ​​testing and validation of E/E systems. Development and implementation of strategies for AI analysis of vehicle data. Generation of specific vehicle data to secure software versions. Creation or adaptation of a solution tailored to the problem Database.Creation or expansion of existing approaches to error pattern recognition using modern AI processes.Evaluation and evaluation of the automated analysis results with a view to increasing efficiency and quality in security.Insights into the development process of the entire vehicle.
+
+
+Please note that your university must ensure that your final thesis is supervised.
+
+What are you bringing with you?
+
+Study of electrical engineering, computer science, mechatronics or comparable course.Advanced programming experience (Python, C/C#).Basic knowledge of machine learning, AI and pattern recognition.Knowledge of database development and management (e.g. SQL, NoSQL).Experience with cloud platforms (e.g. AWS, Azure, Google Cloud).Knowledge of data visualization and analysis.Good written and spoken German and English skills.
+
+
+Are you enthusiastic about new technologies and an innovative environment? Apply now!
+
+What do we offer you?
+
+Comprehensive mentoring & onboarding.Personal & professional development.Flexible working hours.Mobile work.Attractive remuneration.Apartments for students (subject to availability & only at the Munich location).And much more see bmw.jobs/waswirbieten.
+
+
+At the BMW Group, we see diversity and inclusion in all its dimensions as a strength for our teams. Equal opportunities are particularly important to us, and the equal treatment of applicants and employees is a fundamental principle of our corporate policy. Our recruiting decisions are therefore based on your personality, experience and skills.
+
+More about diversity at the BMW Group at bmwgroup.jobs/diversity.
+
+Start date: from February 17, 2025
+
+Duration: 6 months
+
+Working hours: full time
+
+Contact:
+
+BMW Group HR team
+
++49 89 382-17001
+
+Final thesis in Electrics and Electronics AI and machine learning (f/m/x) 
+
+Corporate division: BMW AG
+
+Location: Munich
+
+Working area: Electrics/Electronics
+
+Job ID: 148945
+
+Release date: 12/17/2024
+
+Internship/thesis

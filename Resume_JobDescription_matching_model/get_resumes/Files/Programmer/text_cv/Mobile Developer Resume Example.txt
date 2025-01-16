@@ -1,0 +1,72 @@
+<#$%
+https://www.kickresume.com/en/help-center/mobile-developer-resume-sample/
+#$%>
+
+Mobile Developer Resume Example (Full Text Version)
+
+Gian Marco Prete
+
+Address: Carl Marx 28, 20153, Milan, Italy
+Nationality: Italian
+Date of birth: 1993-11-11
+Email address: hello@kickresume.com
+Phone number: contact hidden
+Kickresume web: http://prete.cf
+Profile
+Currently studying for Microsoft Certified Professional (MCSA). Working as Systems Administrator and Support Technician. In my spare time I built apps with more than 500,000 users.
+
+Work experience
+
+08/2017 - present, Junior System Administrator, 4ward S.p.A., Milan, Italy
+
+Creation of VM, Server roles configuration.Administration of Active Directory, SCCM and FS access.Troubleshooting.
+
+10/2016 - present, Mobile App Developer, Indipendent, Milan, Italy
+
+Desing, Build and Market of Mobile Apps.I currently published 2 applications that have more than 5'000 daily users.Language used: Java for Android and Swift for Apple.https://play.google.com/store/apps/dev?id=6832454954093223020&hl=en
+
+10/2013 - 10/2015, IT Technical Consultant (Help Desk Tier 2), Present S.p.A., Milan, Italy
+
+IT Technical Consultant @ Edison S.p.A. (a client of my company)On-site and remote Software/Network/OS Troubleshooting -more countries-Administration of the antivirus clients with McAfee ePolicy Orchestrator.Configuration of the pc's using master images.​I managed the international/​national video conference of the company.
+
+Education
+
+2015 - 2016, Security Systems and Computer Networks, University of Milan, Crema, Italy
+
+Security, privacy and intrusion prevention.Analysis, Design and management of enterprise information systems.​​http://sicurezzaonline.di.unimi.it
+
+2013, Computer Science, ITIS Marie Curie, Milan, Italy
+
+Fundamentals of Computer ScienceNetworks and DatabaseProgramming Languages (Java, C, PHP, VB6)http://www.iiscuriesraffa.it/
+
+Job-related skills
+
+Outstanding ​Software/Network/Hardware troubleshooting and ​problem solving skills developed while working as Technical Consultant.Solid knowledge of the System Infrastructure and the Network devices ​of an Enterprise (proxy,firewall -ACL-,router,domains, ISO/OSI model and various protocols DHCP/DNS...).​Good knowledge of the Virtualization software as HyperV e VMware.Usage of the main server roles, Active Directory, SCCM console and McAfee ePolicy Orchestrator.Design, manage, wiring ​and monitoring small LAN​ (Wireshark, Nmap, Metasploit).Powershell usage for the scripting of various activity.Perfect knowledge​ of the Computer's Hardware / Ability to build one from scratch.Excellent mastery of the Windows and Linux (Kali/Debian/Ubuntu) O.S.​Usage of the Remote Support software as (Dameware,Teamviewer and Remote Desktop).​Good knowledge of the following programming language: Java (used for develop mobile apps), C, VB6, Python.Software used for develop: Android Studio, XCode, Google Developers Console, Firebase, Analytics, Search Console, ​Facebook Developers Console, AdSense,​ Admob.
+
+Organisational / Communication skills
+
+Ability to plan, schedule and handle​ the work-load mastered using the ticketing service system. Team work, communicate effectively and work together to achieve a common goal. I acquired these ​skills in the professional environment thanks to the continued relationship with users / technical teams from other areas.​
+
+Skills
+
+Languages
+Italian
+English
+
+Operating System
+Windows Server
+Windows Client
+Kali/Debian Linux
+
+Additional Education
+
+06/2015 - 09/2015, Knowing and Grow the Enterprise, SDA Bocconi, Milan
+
+Free training course of Strategy and Finance for managers and entrepreneurs of the future​Knowing the company​ (9 - 25 June 2015​)Innovate and grow the enterprise​ (2 July - 22 September ​2015​)http://www.sdabocconi.it/it/sito/sda-bocconi-growth-2015
+
+Hobbies
+
+Traveling
+Parkour & Acrobatic Gymnastics
+Mobile App Development
+Technology Addicted

@@ -1,0 +1,30 @@
+
+https://www.linkedin.com/jobs/search/?currentJobId=4121139469
+
+Engineering Manager - Python and K8s
+
+
+
+This is an Engineering Manager role, focused on a new generation of ops technology, to run a team that works in Python on Kubernetes.
+
+Our mission is to reinvent the way people run software - on public clouds and in their own data centres. To achieve that we are building a new community around Python opscode for open source applications, running on Kubernetes. We want to move all of Canonical and Ubuntu IS onto this new, open source codebase.
+
+This is cutting-edge opportunity for a technical leader passionate about building a world-class devops culture in corporate information systems. We are confident that we can dramatically improve the experience of running complex business operations - and then we can help our customers embrace those new techniques and products. Traditionally, IS is an inward-facing operation. We would like to transform our IS team into an extension of the product engineering capability at Canonical. Our internal workloads are in many cases the same open source workloads that our customers want to operate. This team will productise those workloads for real-time automated operations on Kubernetes.
+
+As an engineering manager you'll lead a team in your local time zone, focused on the business workloads that make Ubuntu, Canonical, and our various services highly available around the planet.You will be responsible for sound software architecture and best practices in software quality, testing and documentation.Technical leadership experience and a background in software engineering are prerequisites for this role. You will be expected to lead, challenge, and develop strong engineers, positively influence the culture, facilitate technical delivery, and work with your team on strategy and execution.
+
+What you'll do
+
+You'll lead a team focused on productising business workloadsYou will build and manage a regional team of engineersYou'll develop your team through coaching, mentoring, and feedbackYou will demonstrate sound engineering by directly contributing toward your team's goalsSet reasonable schedules based on considered estimates, with feedback loops for improvementSet and manage expectations with other engineering teams and external stakeholdersAdvance modern, agile software development practicesMaintain a culture of quality and engineering excellenceGrow a healthy, collaborative engineering culture in line with the company valuesBe an active part of the leadership team and collaborate with other leaders in the organisationWork from home with global travel up to 20% for internal and external events
+
+Who you are
+
+You have experience in Docker and Kubernetes operationsYou have a software engineering background, with proven Python experienceYou have experience developing Python frameworks, and understand the importance of stable consumable APIsYou love embracing new technologies and pushing the boundaries of what is possibleYou have an interest in building products that improve how people operate software and infrastructure everywhereYou love developing and growing people and have a track record of doing itYou are knowledgeable and passionate about software developmentYou have experience working in an agile development environment
+
+About Canonical
+
+Canonical is a growing international software company that works with the open-source community to deliver Ubuntu, the world's best free software platform. Our services help businesses worldwide reduce costs, improve efficiency and enhance security with Ubuntu.
+
+We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity we will give your application fair consideration.
+
+#Stack

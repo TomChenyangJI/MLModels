@@ -1,0 +1,12 @@
+
+https://www.linkedin.com/jobs/search/?currentJobId=4115473959
+
+Principal AI Architect (f/m/d)
+
+
+
+Principal AI Architect (f/m/d)
+We are HCLTech, one of the fastest-growing large tech companies in the world and home to 225,000+ people across 60 countries, supercharging progress through industry-leading capabilities centered around Digital, Engineering and Cloud. The driving force behind that work, our people, are diverse, creative, and passionate, raising the bar for excellence on a regular basis. We, in turn, work hard to bring out the best in them as we strive to help them find their spark and become the best version of themselves that they can be. If all this sounds like an environment you’ll thrive in, then you’re in the right place. Join us on our journey in advancing the technological world through innovation and creativity.
+Job Responsibilities:Technical & Engineering Leadership: Design comprehensive AI solution and technology architecture, integrating latest AI technology developments into world-class solutions. Lead high-level architectural discussions with clients, providing expert guidance on best practices for AI implementations across AI PC, Edge, Data Centre and Public Cloud environments.Service Delivery & Innovation: Architect innovative AI solutions from ideation to MVP, rapidly enabling genuine business value. Optimize AI and cloud architectures to meet client requirements, balancing efficiency, accuracy and effectiveness.Thought Leadership and Client Engagement: Provide expert architectural and strategy guidance to clients on incorporating Generative AI into their business and technology landscape.Collaboration and Customer Engagement: Engage with multiple customers simultaneously, providing high-impact consultative relationships.
+Required Skills:Experience: 10+ years architecture design and 7+ years in software engineering.Technologies:Professional-level expertise in Public Cloud environments (AWS, Azure, Google Cloud).Demonstrable coding proficiency with Python, Java or Go languages.AI ExpertiseAdvanced machine learning algorithms, GenAI models (e.g., GPT, BERT, DALL-E, GEMINI), NLP techniques.
+_________________We promote equal opportunities for all employees, regardless of their cultural and social background, gender, disability, age, religion, beliefs, and sexual identity. We give priority consideration to severely disabled applicants and those of equal status in the case of equal suitability.

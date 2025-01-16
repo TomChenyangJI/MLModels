@@ -1,0 +1,91 @@
+<#$%
+https://www.kickresume.com/en/help-center/quality-assurance-consultant-tester-resume-sample/
+#$%>
+
+Quality Assurance Consultant Resume Sample (Full Text Version)
+
+Jeanie Buss
+
+Address: 9999, Ghaziabad, India
+Date of birth: 1999-19-09
+Email address: hello@kickresume.com
+Phone number: 999-999-999
+Web: www.kickresume.com
+Profile
+Top-performing QA Tester with over three year of experience in resolvingchallenging problems such as system and software bugs, placing special value on ensuring minimum downtime. Highly skilled in preparing and executing test cases for all functional areas of applications
+
+Work experience
+
+10/2017 - 11/2018, Associate Software Test Engineer, Opalina Technology, Noida, India
+
+It is service based organization working in different domains such as Banking ,E-Commerce ,Governance and Media established in the year 2013.Roles and ResponsibilityAutomated and manual test cases creation, coding and execution.Manual testing (black box testing, usability, user interface, ad-hoc, exploratory testing).Assign tasks and roles on testing project level.Test software in terms of functionality, performance, speed and stability.Design and creation of REST test cases for different web services.Developed an easy to extend and maintain web component testing framework.Manual and exploratory tests execution.
+
+05/2016 - 09/2017, QA Engineer, GrewBox Pvt. Ltd., Noida, India
+
+It's a product based company in Education domain, It provides educational leads to their clients,  Roles and Responsibility﻿Understanding Project RequirementsTest Scenario preparationTest case preparationTest case executionSIT and UAT testingBug Reporting on Bugzilla/JiraClient Call InteractionPreparing the test summary report.
+
+12/2015 - 05/2016, Software Tester Intern, Croma Campus Pvt. Ltd, Noida, India
+
+Roles and Responsibility﻿Understanding Project RequirementsTest Scenario preparationTest case preparationTest case executionBug Reporting on ExcelPreparing the test summary report.
+
+Education
+
+2013 - 2016, GNIIT (CS), NIIT, Ghaziabad, India
+
+Stream: Computer Science
+
+2013 - 2016, B. Sc, Ram Manohar Lohia Avadh University, Pratapghar, India
+
+Stream: PCM
+
+2011 - 2012, Senior Secondary, Uttar Pradesh Board Of Secondary Education, Allahabad, India
+
+Stream: PCM
+
+Skills
+
+Manual Testing
+Manual Testing
+SDLC and STLC
+SQL
+API Testing
+Agile
+Jira
+Microsoft Office
+
+Automation Testing
+Selenium
+Java
+POM
+Maven
+Xpath
+TestNG
+Jmeter
+
+Projects
+
+10/2017 - 11/2018, Banamex, Citi Bank NA, Mexico
+
+It's a banking project based on different sub modules such as Payment Gateway, Business Activity Monitor , Billing and so on.Responsibility: Understanding Application Requirement Specification. Prepare Test Cases according to Application Requirement Specification and contribute towards Test Execution. Perform Manual and Automation testing (Functional, Regression, Integration, GUI & Browser Compatibility testing). Defect Logging, Bug Reporting, Bug Tracking, Execute User Acceptance testing (UAT).Type of Testings: Functional TestingMW TestingRegression TestingDatabase TestingAPI TestingAutomation TestingPerformance TestingTools: Jira,Selenium,TestNg,Eclipse,Intellij,Notepad++,Visual Studio code,Postman,Jmeter,SQL Developer, DataGrip,Rest Assured,SoapUI,WinSCP,Putty.Programing/Web languages;Java,html,css,Json,xml,xpath,sql
+
+07/2018 - 11/2018, SRPT, SMBC Bank, Singapore
+
+The project is about the Standardization of Remittance Phase 1 which replaces the current Singapore remittance system CRS. Both system platform is operational workflow for SWIFT will be Standardize in APAC region. Type of Testings: Functional TestingUI TestingRegression TestingDatabase TestingAPI TestingAutomation TestingPerformance TestingTools: Jira,Selenium,TestNg,Eclipse,Intellij,Notepad++,Visual Studio code,Postman,Jmeter,SQL Developer, DataGrip,Rest Assured,WinSCP,Putty.Programing/Web languages;Java,html,css,Json,xml,xpath,sql
+
+02/2018 - 07/2018, Editorji APP, Editorji Technologies Pvt Ltd
+
+A new way to experience video news. Tap and swipe for personalised AI driven newscasts. User can edit and share their newscasts.Responsibility: Testing the application, Finding and Reportings bugs, API Testing, Performance Testing,Test report generationType of Testings: Functional TestingRegression TestingDatabase TestingAPI TestingPerformance TestingTools: Redmine,OpenProject,Eclipse,Notepad++,Postman,Jmeter,MySQL.Programing/Web languages;AngularJs,Java,html,css,Json,xpath,sql
+
+01/2018 - 09/2018, Narendra Modi APP, NarendraModi.in
+
+Official App of Prime Minister of India, Narendra Modi. It brings to you latest information, instant updates.Responsibility: Testing the application, Finding and Reportings bugs, API Testing ,Performance Testing,Test report generationType of Testings: Functional TestingRegression TestingExploratory TestingDatabase TestingAPI TestingPerformance TestingTools: Redmine,Notepad++,Postman,Jmeter,MySQL.Programing/Web languages;Json,SQL,XML
+
+05/2016 - 09/2017, GrewBox Application, GrewBox
+
+It's a web-based educational portal similar to JustDial and sulekha. Here students can look up for courses, training institutes. Institutes can either become a free or paid client.Responsibility: Analysis of SRS and prepare test cases and test scenario. Interacted with Business Analyst to understand the business requirements. Design and Execute test cases. Preparing bug report. Performing functional and nonfunctional testing.Type of Testings: Functional TestingRegression TestingAutomation TestingPerformance TestingTools: BugZilla,Selenium,TestNg,Eclipse,Notepad++,Visual Studio code,Jmeter,MySql workbench,Excel.Programing/Web languages;Java,html,css,xpath,sql
+
+Hobbies
+
+Capturing moments
+Smartphones
+Sports

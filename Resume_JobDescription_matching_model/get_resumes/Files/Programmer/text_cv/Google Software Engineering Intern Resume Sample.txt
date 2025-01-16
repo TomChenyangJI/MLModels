@@ -1,0 +1,54 @@
+<#$%
+https://www.kickresume.com/en/help-center/software-engineer-intern-google-resume-sample/
+#$%>
+
+Google Software Engineering Intern Resume Sample (Full Text Version)
+
+Luke Walton
+
+Address: 99999, Toronto, Canada
+Email address: hello@kickresume.com
+Website: www.kickresume.com
+Profile
+Energetic and passionate college student working towards B Tech in Electronics and Communication at Kalyani Government Engineering College. Aiming to use my knowledge that I have acquired from my coursework as well as self study and with my hard work to satisfy my internship at your organization and also willing to learn more from this internship.
+
+Education
+
+08/2017 - present, B Tech, Kalyani Government Engineering Colleg, Kalyani, India
+
+CGPA : 7.56/10.00Course : B Tech in Electronics and CommunicationClubs : Member of our college coding club KEYGEN Coders
+
+Projects
+
+A Terminal Chat application, Terminal Chat Network
+
+It is prototype of console chat apps like the one we saw in Die Hard 4.It has in-app capabilities to transfer file of any type between users. It also has a user login and registration feature.It is written in python.MySQL is used to manage the database of login data and user.FTP Servers are used to mange the file transfer between the users.Link to GitHub Repository: https://github.com/ayanbag/Terminal_Chat_Network
+
+A terminal console Dictionary cum Translator app, COMLID
+
+It is a command line dictionary application.This project uses the API Services of OXFORD DICTIONARY.It also features a translator.The backend part code of COMLID is written in Python.
+
+My Personal Website, kickresume.ml
+
+It is designed with basic HTML and CSS skills
+
+Skills
+
+Programming Languages
+Python
+R
+JAVA
+JavaScript
+Node.js
+
+Other Skills
+Data Structures
+Algorithms
+Product Management
+Git
+Microsoft Office
+
+Languages
+English
+Hindi
+French

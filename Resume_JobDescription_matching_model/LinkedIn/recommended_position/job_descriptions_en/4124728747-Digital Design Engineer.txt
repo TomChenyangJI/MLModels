@@ -1,0 +1,11 @@
+
+https://www.linkedin.com/jobs/search/?currentJobId=4124728747
+
+Digital Design Engineer
+
+
+
+Senior Chip Design / RTL Design Engineer
+My client is a very well funded start-up that is tackling the high performance computing market. You would be working with a new architecture that solves several datacenter hardware issues.
+Write high quality RTL that is at IP qualityVerification of the IPWrite architecture and design documentationPCIe root complexes, switches or similar experienceCPU, hardware accelerator, NoC or Ethernet experience is desireableExperience with ARM or RISC-V SoC development is desirable
+Send your CV/Resume to discuss in more detail.

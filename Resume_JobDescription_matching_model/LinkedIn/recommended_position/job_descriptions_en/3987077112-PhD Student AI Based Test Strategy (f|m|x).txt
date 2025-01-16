@@ -1,0 +1,61 @@
+
+https://www.linkedin.com/jobs/search/?currentJobId=3987077112
+
+PhD Student AI Based Test Strategy (f/m/x)
+
+
+
+FORM YOUR PASSION INTO A CAREER.
+
+PROMOTION AT THE BMW GROUP.
+
+The dissertation is a significant step on the way to an academic career - which you can shape together with us. Working alongside experienced mentors, you have the opportunity to apply your passion and scientific expertise to very real challenges and help shape the future of mobility.
+
+We, the BMW Group, offer you an exciting and varied doctoral thesis in the area of ​​AI-based test strategy. Within our "Integration and Validation" department, we aim to integrate the functions and chains of action for infotainment, communication and connected drive services (onboard/offboard), put them into operation and transfer them to automated testing. In close cooperation with the developing departments, we develop the necessary test strategies and implement them in the highly automated test field. Interface tests of the individual components up to the different layers between the Android platform and apps form the foundation of the protection up to the entire vehicle.
+
+What awaits you?
+
+In the planned doctoral project, you will develop an overarching validation strategy for the development of onboard/offboard functions in the infotainment area and support it with department-specific test strategies. The future requirements of the next generation of vehicle networking and the architecture of future integration control units must be taken into account. Yours The task is to determine the test goals and needs for action using analytics methods from current quality problems in the field. You will select and adapt suitable test methods and use them Locate security concepts for the functions in collaboration with the specialist departments and functional teams. In addition, you must demonstrate the effectiveness of the developed methods, test concepts and test strategies using big data analytics. The most modern methods, such as "artificial intelligence", are considered to be state of the art Document and further develop the requirements of security in the infotainment area. Finally, you will report the results of your project via scientifically refereed publications in coordination with the supervisor Publish the chair.In summary, the doctoral project makes a significant contribution to the selection, development and effective use of AI-supporting methods across the entire testing process in all levels or dimensions of assurance.
+
+
+What are you bringing with you?
+
+Experience in programming (Python, C, C++, ECU test…).Experience in carrying out automated tests.Good team and communication skills.Analytical thinking skills.Enjoy working independently.
+
+
+What do we offer you?
+
+Comprehensive mentoring & onboarding.Personal & professional development.Flexible working hours.Mobile work.Attractive remuneration.Apartments for students (subject to availability & only at the Munich location).And much more see bmw.jobs/waswirbieten.
+
+
+Are you enthusiastic about new technologies and an innovative environment? Apply now!
+
+At the BMW Group, we see diversity and inclusion in all its dimensions as a strength for our teams. Equal opportunities are particularly important to us, and the equal treatment of applicants and employees is a fundamental principle of our corporate policy. Our recruiting decisions are therefore based on your personality, experience and skills.
+
+More about diversity at the BMW Group at bmwgroup.jobs/diversity.
+
+Start date: from September 1st, 2024
+
+Duration: 36 months
+
+Working hours: full time
+
+Contact:
+
+BMW Group HR team
+
++49 89 382-17001
+
+PhD Student AI Based Test Strategy (f/m/x) 
+
+Corporate division: BMW AG
+
+Location: Munich
+
+Working area: Electrics/Electronics
+
+Job ID: 118201
+
+Release date: July 29, 2024
+
+Young talent programs

@@ -1,0 +1,33 @@
+
+https://www.linkedin.com/jobs/search/?currentJobId=4119366749
+
+Systems Development Engineer
+
+
+
+Minimum qualifications:
+
+Bachelor's degree in Computer Science, IT-related field, or equivalent practical experience.3 years of experience with TCP/IP and networking concepts (e.g., PXE boot, Subnets, VLANs, Jumbo Frames, LACP, NIC Teaming, Unicast/Broadcast/Multicast, ACLs, DNS, etc.).3 years of experience with systems automation, systems design and implementation.Experience in scripting (e.g., Bash, Perl, Python, Ruby, etc.) and in one of the following infrastructures (e.g., Linux, Kubernetes, Networking, Storage, etc.).Due to the sensitive nature of this role, candidates must be able to obtain and maintain a Level 2 security clearance (SÜ2) under the German Classification Act (SÜG)
+
+Preferred qualifications:
+
+Experience in Site Reliability Engineer (SRE) or IT production systems engineering. Experience with product testing or beta testing programs.Knowledge of physical server, storage, and network devices.Ability to travel internationally up to 25% of the time as needed.Excellent relationship-building, communication, and presentation skills, with the ability to empathize with customers and understand their needs.Excellent investigative and problem-solving skills, with a passion for technology and delivering high-quality user experiences.
+
+About The Job
+
+Systems Development Engineering (SDE) at Google is a role where you manage services and systems at scale. SDEs creatively put their engineering discipline to use automating the mundane and reducing toil. We don’t just write code to fix bugs, but emphasize the development of tools and solutions that fix classes of problems. We know it’s hard to control what you can’t measure – so we focus on observability: instrumenting first, then turning data into knowledge, and finally knowledge into action. We know that the operational efficiency of Google systems, services, virtual compute environments and the operating systems that power them impact the environment, not just the bottom line. We know that working together we can do more, and that community matters.
+
+Google brings together people with a wide variety of backgrounds, experiences and perspectives. We encourage them to collaborate, think big and take risks in a blame-free environment. We promote self-direction to work on meaningful projects, while we also strive to create an environment that provides the support and mentorship needed to learn and grow.
+
+Together we engineer and build the infrastructure, tools, access and telemetry for systems that enable orchestration of Google-scale services. Come build things that matter.
+
+Google Distributed Cloud Hosted (GDCH) is a private cloud offering. It includes everything to launch a cloud offering, including software, hardware, tools, operating process, runbooks, and training.
+
+In this role, you will be responsible for deploying GDCH solutions at customer sites and internal reference deployments, you will also build knowledge in utilizing and operating Google Distributed Cloud Hosted solutions.Google Cloud accelerates every organization’s ability to digitally transform its business and industry. We deliver enterprise-grade solutions that leverage Google’s cutting-edge technology, and tools that help developers build more sustainably. Customers in more than 200 countries and territories turn to Google Cloud as their trusted partner to enable growth and solve their most critical business problems.
+
+Responsibilities
+
+Manage GDCH using our public documentation and gain experience with the same resources customers use, identify and report product bugs, usability issues, and other issues before they impact customers.Determine the appropriate course of action when bugs or usability issues are identified.Collect, document, and analyze feedback and communicate findings to development teams, provide insights for product improvement, build and monitor key metrics, identify trends, and report on the impact of internal activations and operations.Perform day-to-day troubleshooting and resolution of Infrastructure issues.Participate in Customer, Partner, and Internal team activations and trainings and in the 24x7 on-call rotation to support escalations from client inquiries as well as internal reference inquiries.
+
+
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .

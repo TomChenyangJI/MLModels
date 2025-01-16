@@ -1,0 +1,33 @@
+
+https://www.linkedin.com/jobs/search/?currentJobId=4119837695
+
+Systems Development Engineer, Technical Documentation
+
+
+
+Minimum qualifications:
+
+Bachelor's degree in Computer Science or equivalent practical experience.3 years of experience working in production distributed environments witg TCP/IP and networking concepts (PXE boot, Subnets, VLANs, Jumbo Frames, LACP, NIC Teaming, Unicast/Broadcast/Multicast, ACLs, DNS, DHCP, SSH, etc.).Experience in one of the areas of infrastructure (Linux, Kubernetes, Networking, Storage, etc.).Ability to obtain and maintain a Level 2 security clearance (SÜ2) under the German Classification Act (SÜG).
+
+Preferred qualifications:
+
+Experience with SRE or IT production systems engineering.Experience in technical writing or a related field, and familiarity with various authoring and content management tools.Experience with scripting (i.e., Bash, Perl, Python, Ruby, etc.).Good understanding of physical server, storage, and network devices.Good relationship-building skills and the ability to empathize with customers and understand their needs.Good communication skills to explain technical concepts clearly to both technical and non-technical audiences.
+
+About The Job
+
+Systems Development Engineering (SDE) at Google is a role where you manage services and systems at scale. SDEs creatively put their engineering discipline to use automating the mundane and reducing toil. We don’t just write code to fix bugs, but emphasize the development of tools and solutions that fix classes of problems. We know it’s hard to control what you can’t measure – so we focus on observability: instrumenting first, then turning data into knowledge, and finally knowledge into action. We know that the operational efficiency of Google systems, services, virtual compute environments and the operating systems that power them impact the environment, not just the bottom line. We know that working together we can do more, and that community matters.
+
+Google brings together people with a wide variety of backgrounds, experiences and perspectives. We encourage them to collaborate, think big and take risks in a blame-free environment. We promote self-direction to work on meaningful projects, while we also strive to create an environment that provides the support and mentorship needed to learn and grow.
+
+Together we engineer and build the infrastructure, tools, access and telemetry for systems that enable orchestration of Google-scale services. Come build things that matter.
+
+Google Distributed Cloud Hosted (GDCH) is a private cloud offering. It includes everything you need to launch a cloud offering including software, hardware, tools, operating process, runbooks, and training. As a Systems Development Engineer, you'll be responsible for creating clear and comprehensive technical guides that explain GDCH to customers, partners, and internal teams enabling them to effectively deploy and operate the system.
+
+Google Cloud accelerates every organization’s ability to digitally transform its business and industry. We deliver enterprise-grade solutions that leverage Google’s cutting-edge technology, and tools that help developers build more sustainably. Customers in more than 200 countries and territories turn to Google Cloud as their trusted partner to enable growth and solve their most critical business problems.
+
+Responsibilities
+
+Perform complex day to day troubleshooting and resolution of Infrastructure issues (Network, Storage, Servers, OS, Kubernetes, etc.).Interact with customers as well as internal development organizations in order to accomplish shared goals successfully.Work closely with technical writers, Google partners to translate technical details into clear, concise language that anyone can grasp, and ensure consistent use of terms and language across all documentation.Participate in Customer, Partner, and Internal team Deployments and trainings as needed which will require international travel. International travel is a core requirement of this position, with up to 25% of your time spent traveling.Participate in the 24x7 on-call rotation to support escalations from customer deployments as well as internal reference deployments.
+
+
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .

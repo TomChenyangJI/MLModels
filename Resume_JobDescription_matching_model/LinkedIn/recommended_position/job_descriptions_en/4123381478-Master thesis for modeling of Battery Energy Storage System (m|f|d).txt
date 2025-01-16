@@ -1,0 +1,46 @@
+
+https://www.linkedin.com/jobs/search/?currentJobId=4123381478
+
+Master thesis for modeling of Battery Energy Storage System (m/f/d)
+
+
+
+Huawei is a leading global information and communications technology (ICT) solutions provider. Driven by a commitment to operations, ongoing innovation, and open collaboration, we have established a competitive ICT portfolio of end-to-end solutions in Telecom and enterprise networks, Devices and Cloud technology and services. Our ICT solutions, products and services are used in more than 170 countries and regions, serving over one-third of the world's population. With 197,000 employees, Huawei is committed to develop the future information society and build a Better Connected World.
+
+Huawei Digital Power is a business unit within Huawei that provides Enterprise & Industry customers, products and solutions like clean power generation, transportation electrification, site power facilities, data center facilities, and embedded power. Huawei Digital Power is committed to integrate Digital and Power Electronics technologies to provide customers with high-quality, energy-efficient, green, and low-carbon power electronics products, facilitating their business success
+
+The Power Conversion Technology Laboratory within Huawei’s Nuremberg Research Center is responsible for Advanced Digital Power Technology Research, Architecture Evolution Design and Strategic Technology Planning, and plays an important role in the Huawei Digital Power business in the design and development of power converters and control systems for applications such as PV Solar & Battery Energy Storage Field, Data Centers, Electric Vehicle, and Embedded Power Supply.
+
+You will be part of the HUAWEI Energy R&D Competence Center in Nuremberg.
+
+Now we are looking for a:
+
+Master thesis for modeling of Battery Energy Storage System (m/f/d)
+
+Responsibilities
+
+Develop and implement generic framework to generate real-world profiles for BESS applications according to stress factor distribution and battery usage requirements from real-world BESS applicationImplement battery system simulation using Simulink to simulate BESS over the whole lifetime using real-world profiles.
+
+Your areas of expertise
+
+Currently enrolled as a Master's or Ph.D. student in either energy storage, material science, mechanical engineering, physics, chemistry, electrochemistry, or any related field.Expertise in mathematical modeling of empirical and semi-empirical battery modelling of the most relevant battery effects: Voltage, OCV, hysteresis, short circuits, calendar and cyclic aging according to relevant stress factors, reversible and irreversible thermal effects.Knowledge of Energy system modelling using data-driven and empirical modeling, data analysis using statistical methods and visualization approaches.Proficient in at least one major compiled programming language like Python, Matlab & Simulink, Comsol, finite elements, or finite volume tools.Fluent in written and spoken English (working language). Good communication skills and multicultural environment adaptability.
+
+By applying to this position, you agree with our RECRUITMENT PRIVACY STATEMENT. You can read in full our recruitment privacy statement via the link below.
+
+http://career.huawei.com/reccampportal/portal/hrd/weu_rec_all.html
+
+What You Can Expect
+
+Our culture is characterized by innovative power and team spirit as well as the intensive exchange of knowledge and experience within our global network.We offer you a competitive compensation package and a broad range of training opportunities. Many online and face-to-face training programs.Self-responsible work in a competent, motivated and constantly growing team.
+
+If you are enthusiastic in shaping Huawei’s Nuremberg Research Center together with a multicultural team of highly skilled Engineers and Researchers, feel free to contact us. Driving future technologies focused on the customer experience is our main mission. Apply now!
+
+Please send your application and CV (incl. cover letter) in English.
+
+To apply for this position, please attach a CV in English on your application to: recruitment.erc@huawei.com
+
+Südwestpark 48,
+
+Nurnberg European Research Center,
+
+90449 Nurnberg, Germany

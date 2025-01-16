@@ -1,0 +1,58 @@
+
+https://www.linkedin.com/jobs/search/?currentJobId=4117401829
+
+Test Engineer m/f/d
+
+
+
+Job Description
+
+Why TI?
+
+Engineer your future. Change the world. Love your job.
+
+In your first year with TI, you will participate in the Career Accelerator Program (CAP), which provides professional and technical training and resources to accelerate your ramp into TI and set you up for long-term career success. Within this program, we also offer function-specific technical training and on-the-job learning opportunities that will encourage you to solve problems through a variety of hands-on, meaningful experiences from your very first day on the job.
+
+This is a unique opportunity to be part of a team that drives testing of industry leading isolated modulators and amplifiers devices going into markets with significant growth potential (BEV, Solar, Charging infrastructure). The ideal candidate would have a background that includes probe and final test development of complex mixed signal circuits.
+
+Job Description
+
+As test engineer for the isolated Signal Chain (ISC) group, you will be responsible to develop and implement leading edge ATE solutions on wafer and IC package level. You are part of the product development cycle from the initial idea to mass production. As an integral part of the new product development team you are interfacing across multiple functions in international team setups. This demanding environment also offers the opportunity to learn from established and successful experts in this field.
+
+Key Responsibilities Include
+
+ Outlining the test strategy and Design for Test definition for our new isolated amplifier and modulator devices  ATE (Automatic Test Equipment) test hardware and software development  Silicon validation & characterization during development phase  Comprehensive device debugging, design validation and failure analysis  Drive data analysis skills using Spotfire, dataPower or equivalent tool based on STDF  Driving for robust and cost-effective test solutions while being accountable for product quality 
+
+Qualifications
+
+Minimum requirements:
+
+ Master Degree in electrical engineering or equivalent  Basic experience in mixed signal or analog circuit measurement techniques  Programming language knowledge like C / C++ / Java  Fluent in English 
+
+Preferred Qualifications
+
+ Team player with good communication skills, used to work in dynamic environments  Demonstrated strong interpersonal, analytical and problem-solving skills  Strong understanding of the IC product development process, from concept to volume production  Familiar with device characterization and qualification methods  Proven track record with ATE hard- and software development (wafer sort and/or package level)  Experience with automatic test equipment like Teradyne ETS-364, ETS-88 and/or V93k  Good time management skills that enable on-time project delivery 
+
+Our Offer For You
+
+ Benefit from a competitive salary, yearly profit sharing (dependent on company success), flexible working hours, the ability to work from home, an unlimited contract from the beginning and many additional benefits  Join an international work environment where your ideas count and where you can thrive in a diverse culture Explore a world of opportunities for your personal and professional development 
+
+Put your talent to work with us as a Test Engineer!
+
+About Us
+
+Why TI?
+
+Engineer your future. We empower our employees to truly own their career and development. Come collaborate with some of the smartest people in the world to shape the future of electronics.We're different by design. Diverse backgrounds and perspectives are what push innovation forward and what make TI stronger. We value each and every voice, and look forward to hearing yours. Meet the people of TI Benefits that benefit you. We offer competitive pay and benefits designed to help you and your family live your best life. Your well-being is important to us.
+
+About Texas Instruments
+
+Texas Instruments Incorporated (Nasdaq: TXN) is a global semiconductor company that designs, manufactures and sells analog and embedded processing chips for markets such as industrial, automotive, personal electronics, communications equipment and enterprise systems. At our core, we have a passion to create a better world by making electronics more affordable through semiconductors. This passion is alive today as each generation of innovation builds upon the last to make our technology more reliable, more affordable and lower power, making it possible for semiconductors to go into electronics everywhere. Learn more at TI.com .
+
+Texas Instruments is an equal opportunity employer and supports a diverse, inclusive work environment.
+
+If you are interested in this position, please apply to this requisition.
+
+About The Team
+
+TI does not make recruiting or hiring decisions based on citizenship, immigration status or national origin. However, if TI determines that information access or export control restrictions based upon applicable laws and regulations would prohibit you from working in this position without first obtaining an export license, TI expressly reserves the right not to seek such a license for you and either offer you a different position that does not require an export license or decline to move forward with your employment.

@@ -1,0 +1,18 @@
+
+https://www.linkedin.com/jobs/search/?currentJobId=4124574155
+
+AI Engineer
+
+
+
+🚀 AI Engineer
+Disclaimer: May cause uncontrollable career excitement 😎
+German Fluent Candidates ONLYBachelor or Masters in Computer Science (related field) ONLYUp to €85,000 up for grabs!!
+Plot twist: Imagine walking into work and ACTUALLY building the future of AI. Revolutionising how 50 MILLION users experience technology. This is your ACTUAL Monday! 🤯
+This team isn't just smart - they're "make other developers look like they're working with calculators" smart. Tech wizards so brilliant, they probably debug code before their first coffee ☕
+My client is working on state-of-the-art Large Language Models (LLMs) and augmented generative retrieval in secure, high-performance environments. This is a remote opportunity to join a research-focused, innovation-driven team building enterprise-grade solutions for industries like finance.
+What You'll Do:Evolve and optimise their AI solutions and LLMs.Pioneer augmented generative retrieval methods.Explore, evaluate, and implement the latest AI technologies.Collaborate closely with engineers on an advanced generative-first chatbot platform.
+Our Tech Stack:Core: Python, PyTorch, Huggingface, Redis, Elastic.Models: LLaMA2, Falcon, and other foundation models.
+What We’re Looking For:Strong Python skills (C++, Rust is a bonus).Experience with generative AI in NLP and tools like Huggingface, Tensorflow, or Scikit-Learn.A research-oriented mindset and a hands-on approach.Knowledge of transformers, embeddings, and Docker/Kubernetes is a plus.
+Why Join Us?You’ll work at the forefront of AI innovation, developing solutions that can’t simply rely on off-the-shelf APIs. This is your chance to push boundaries in secure, enterprise-grade AI applications.
+Ready to build the future? Apply now!!

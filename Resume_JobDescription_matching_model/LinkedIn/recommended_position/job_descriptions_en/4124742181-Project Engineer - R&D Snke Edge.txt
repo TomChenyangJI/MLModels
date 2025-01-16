@@ -1,0 +1,30 @@
+
+https://www.linkedin.com/jobs/search/?currentJobId=4124742181
+
+Project Engineer - R&D Snke Edge
+
+
+
+Founded in Munich, Germany in 1989, Brainlab develops, manufactures and markets software-driven medical technology, enabling access to improved, more efficient, less-invasive patient treatments. Our key to success is our creative, talented and hard-working team, which consists of around 2400 dedicated and inspiring individuals in 25 locations worldwide. To succeed in reaching our targets, we are seeking committed colleagues who can stand behind our core values curious, authentic and useful.
+
+Job Description
+
+Our R&D Snke Edge team develops the Brainlab hardware for our future Digital O.R and Image Guided Surgery portfolio. These state-of-the-art medical systems offer our customers easy access to the Brainlab software capabilities of today and tomorrow.
+
+The R&D Snke Edge team is a team of highly skilled engineers. The cross functional team consists of experts in every field of engineering: project, mechanical, hardware, PCB, FPGA, bare metal software, Linux kernel, Linux user space including server based architectures, front end development up to system integration, CI and testing.
+
+We are looking for an Advanced Project Engineer for our sub team "Project Engineering and Project Management" who shares our passion and is willing to tackle our challenges with us. If you are hands-on, curious and want to actively work with the project team to deliver medical products, we would love to hear from you.
+
+Typical Areas Of Responsibility Include
+
+Requirement Engineering with product owner, product management, technical experts and stakeholders involvedCoordination of internal and external product development activitiesDefinition and review of technical conceptsSet-up of prototypes and qualification of product componentsDefinition and execution of verification and validation activitiesCreation of the medical device product documentation (e.g. risk management)Communication with other R&D departments (QM, QA, Usability, Purchasing, Applications) and manufacturersManagement of small projectsContribution to continuous improvement of system engineering tools and methods
+
+Qualifications
+
+University degree in computer science, physics, engineering or a related disciplineExperience with releasing medical devices under MDR and FDA and with technical documentation for medical devicesAnalytical mindset and creativity to develop reliable solutionsStrong motivation to adapt and enhance structures and processesWell-organized and clearly structured working styleHigh documentation quality standardsFluent written and spoken EnglishEagerness to be part of an interdisciplinary team where your talent can growExperience with project management tools and agile development concepts is a plus
+
+Additional Information
+
+A mutually-supportive, international teamMeaningful work with a lasting impact on medical technology30 vacation days, plus December 24th and December 31stFlexible working hours as well as hybrid work model within GermanyBike leasing via cooperation partner "BikeLeasing"Parking garage and safe underground bike storageAward-winning subsidized company restaurant and in-house cafesVariety-rich fitness program in our ultra-modern 360m2 company gymRegular after work, team, and company eventsComprehensive training and continuing education opportunities
+
+Ready to apply? We look forward to receiving your online application including your first available start date and desired salary.

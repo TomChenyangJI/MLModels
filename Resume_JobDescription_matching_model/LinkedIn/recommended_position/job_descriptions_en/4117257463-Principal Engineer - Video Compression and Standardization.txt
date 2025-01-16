@@ -1,0 +1,15 @@
+
+https://www.linkedin.com/jobs/search/?currentJobId=4117257463
+
+Principal Engineer - Video Compression and Standardization
+
+
+
+Senior/Principal Engineer - Video Compression & Standardization
+Join a leading technology company in Munich as a Senior/Principal Engineer specializing in Video Compression and International Standardization. Contribute to ground-breaking research and development in video compression, image/video signal processing, and AI.
+Collaborate with international standards bodies (VCEG, MPEG, JVET) to shape industry standards. Translate cutting-edge algorithms into practical solutions through implementation and rigorous testing. Contribute to patent development and technical reports to protect intellectual property.
+Your Expertise:
+Hold a PhD or Master's degree in electrical engineering, information technology, computer science, mathematics, or physics.Demonstrate a deep interest in video compression, artificial intelligence, and related technologies.Research Acumen: Have a proven track record of scientific research achievements in video compression or artificial intelligence.International Experience: Possess experience in international standardization, with a history of contributing to and getting contributions adopted in relevant bodies.Intellectual Property: Have a portfolio of patents related to video or image coding.Technical Proficiency: Possess a strong understanding of international video coding standards (HEVC, VVC, etc.), visual quality metrics, CNN structures, and training principles.Software Skills: Be proficient in C/C++, Python, PyTorch, TensorFlow, and MATLAB.
+Join their team and make a significant impact on the future of video technology.
+Interested to know more?Apply here with your CV .
+By applying to this role you understand that we may collect your personal data and store and process it on our systems. For more information please see our Privacy Notice (https://eu-recruit.com/about-us/privacy-notice/)
