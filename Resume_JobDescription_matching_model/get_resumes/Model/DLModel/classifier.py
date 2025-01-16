@@ -25,7 +25,7 @@ with open("len.json", "r") as infi:
     # print(database_length)
     # {'seven': 100,000, 'eight': 105730, 'nine': 18285, 'ten': 928}
 
-fetch_round = 1000
+fetch_round = 5000
 # fetch_entry_amount = {  # each round
 #     "seven": 100000 // fetch_round,
 #     "eight": database_length['eight'] // fetch_round,
@@ -33,14 +33,13 @@ fetch_round = 1000
 #     "ten": database_length['ten'] // fetch_round
 # }
 
-
-fetch_round = 100
 fetch_entry_amount = {  # each round
-    "seven": 1000 // fetch_round,
-    "eight": 1000 // fetch_round,
-    "nine": 1000 // fetch_round,
-    "ten": database_length['ten'] // fetch_round
+    "seven": 10000 // fetch_round,
+    "eight": 10000 // fetch_round,
+    "nine": 10000 // fetch_round,
+    "ten": database_length['ten'] // database_length['ten']
 }
+class10_fetch_entry_amount = fetch_entry_amount['seven'] // 10
 
 # each time, fetch 1,000 entries from the database
 # fetch data 20 times
@@ -54,9 +53,9 @@ all_val_labels = []
 model_name = "allenai/longformer-base-4096"
 tokenizer = LongformerTokenizer.from_pretrained(model_name)
 # model = BertForSequenceClassification.from_pretrained("bert-base-uncased", num_labels=4)
-model = LongformerForSequenceClassification.from_pretrained(model_name, num_labels=4)
+model = LongformerForSequenceClassification.from_pretrained(model_name, num_labels=4, problem_type="multi_label_classification")
 max_length = tokenizer.model_max_length
-print("max_length is ", max_length)
+# print("max_length is ", max_length)
 max_length = 4096
 
 # sentence_model = SentenceTransformer('paraphrase-MiniLM-L6-v2')
@@ -70,7 +69,9 @@ for i in range(fetch_round):
     comm7 = f"select * from seven limit {i * fetch_entry_amount['seven']}, {fetch_entry_amount['seven']};"
     comm8 = f"select * from seven limit {i * fetch_entry_amount['eight']}, {fetch_entry_amount['eight']};"
     comm9 = f"select * from seven limit {i * fetch_entry_amount['nine']}, {fetch_entry_amount['nine']};"
-    comm10 = f"select * from seven limit {i * fetch_entry_amount['ten']}, {fetch_entry_amount['ten']};"
+    # class10_fetch_entry_amount
+    class10_exception = (i * class10_fetch_entry_amount) if (i * class10_fetch_entry_amount) <= database_length['ten'] else (i * class10_fetch_entry_amount - database_length['ten'])
+    comm10 = f"select * from seven limit {class10_exception}, {class10_fetch_entry_amount};"
 
     data7 = execute_command(comm7)
     data8 = execute_command(comm8)
@@ -84,10 +85,13 @@ for i in range(fetch_round):
     data10, labels10 = transfrom_data_from_database(data10, "10")
 
     data = data7 + data8 + data9 + data10
+
     labels = labels7 + labels8 + labels9 + labels10
+    labels = torch.tensor(labels, dtype=torch.float32)
 
     train_texts, val_texts, train_labels, val_labels = train_test_split(data, labels, test_size=0.2)
-
+    # print("train_labels: ", len(set(train_labels)))
+    # print("train labels: ", set(train_labels))
     all_val_texts.extend(val_texts)
     all_val_labels.extend(val_labels)
     train_encodings = tokenizer(train_texts, truncation=True, padding=True, max_length=max_length)
