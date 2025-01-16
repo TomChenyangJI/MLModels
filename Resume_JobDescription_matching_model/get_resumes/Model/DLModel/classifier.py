@@ -13,7 +13,6 @@ import warnings
 
 # warnings.filterwarnings('ignore')
 
-
 comm1 = "select * from seven limit 0, 100;"
 # data = execute_command(comm1)
 # for entry in data:
@@ -57,7 +56,7 @@ model = LongformerForSequenceClassification.from_pretrained(model_name, num_labe
 max_length = tokenizer.model_max_length
 # print("max_length is ", max_length)
 max_length = 4096
-
+epoch_amount = 3
 # sentence_model = SentenceTransformer('paraphrase-MiniLM-L6-v2')
 
 optimizer = AdamW(model.parameters(), lr=0.001)
@@ -90,34 +89,26 @@ for i in range(fetch_round):
     labels = torch.tensor(labels, dtype=torch.float32)
 
     train_texts, val_texts, train_labels, val_labels = train_test_split(data, labels, test_size=0.2)
-    # print("train_labels: ", len(set(train_labels)))
-    # print("train labels: ", set(train_labels))
     all_val_texts.extend(val_texts)
     all_val_labels.extend(val_labels)
     train_encodings = tokenizer(train_texts, truncation=True, padding=True, max_length=max_length)
-    val_encodings = tokenizer(val_texts, truncation=True, padding=True, max_length=max_length)
+    val_encodings = tokenizer(all_val_texts, truncation=True, padding=True, max_length=max_length)
 
     train_dataset = TextDataset(train_encodings, train_labels)
-
     train_loader = DataLoader(train_dataset, batch_size=32, shuffle=True)
 
-    # print(train_encodings.keys())
-    # print(train_encodings["input_ids"][0])
-    # print(len(train_encodings["input_ids"][0]))
+    val_dataset = TextDataset(val_encodings, all_val_labels)
+    val_loader = DataLoader(val_dataset, batch_size=32)
 
-    for epoch in range(3):
+    for epoch in range(epoch_amount):
         print(f"\t{epoch}-th epoch")
         model.train()
         total_train_loss = 0
 
         for batch in train_loader:
             print("\t\tbatch...")
-            # print(f"Max input ID: {max(max(train_encodings['input_ids']))}")
-            # print(f"Vocabulary size: {tokenizer.vocab_size}")
             batch = {k: v.to(device) for k, v in batch.items()}
             optimizer.zero_grad()
-            # print(batch["input_ids"].max())
-            # print(batch.keys())
             outputs = model(**batch)
             loss = outputs.loss
             total_train_loss += loss.item()
@@ -131,19 +122,19 @@ for i in range(fetch_round):
     model.eval()
     total_val_loss = 0
     correct_predictions = 0
-    val_dataset = TextDataset(all_val_texts, all_val_labels)
-    val_loader = DataLoader(val_dataset, batch_size=32)
+
     with torch.no_grad():
         for batch in val_loader:
-
             batch = {k: v.to(device) for k, v in batch.items()}
             outputs = model(**batch)
-            loss = outputs.loss
             logits = outputs.logits
+            loss_fn = torch.nn.BCEWithLogitsLoss()
+            loss = loss_fn(logits, batch["labels"])
+            # loss = outputs.loss
 
             total_val_loss += loss.item()
-            predictions = torch.argmax(logits, dim=-1)
-            correct_predictions += (predictions == batch['labels']).sum().item()
+            # predictions = torch.argmax(logits, dim=-1)
+            correct_predictions += (logits == batch['labels']).sum().item()
     avg_val_loss = total_val_loss / len(val_loader)
     accuracy = correct_predictions / len(all_val_texts)
     print(f"\tvalidation loss: {avg_val_loss}")
